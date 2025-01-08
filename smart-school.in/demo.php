@@ -1,0 +1,229 @@
+<!doctype html><html lang="en">
+<!-- Mirrored from smart-school.in/demo by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2025 14:25:23 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head><title>Demo - Smart School : School Management System by QDOCS</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="author" content="QDOCS"><meta name="keywords" content="Smart School, home, class routine, education institute, exam, k12, marks, multi language, result generator, roles permissions, school, school manager, student, student information system, student management, subject, teacher, android app, demo"/><meta name="description" content="Smart School demo"/><meta name="theme-color" content="#424242" /><link rel="icon" type="image/png" href="assets/admin/assets/img/s-favican.png"><link rel="stylesheet" type="text/css" href="assets/admin/assets/css/material-design.css"><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" /><link rel="stylesheet" href="assets/admin/assets/css/font-awesome.min.css" /><!-- <link rel="stylesheet" type="text/css" href="/css/all.css" /> --><link rel="stylesheet" type="text/css" href="assets/admin/assets/css/material-design.css" /><link href="assets/admin/assets/css/bootstrap.min.css" rel="stylesheet" /><link href="assets/admin/assets/css/style.css" rel="stylesheet"/><link rel="stylesheet" href="assets/admin/assets/css/animate.css"><link href="assets/admin/assets/css/demo.css" rel="stylesheet" /><link rel="stylesheet" href="assets/admin/assets/css/bootstrap-select.min.css"><script>
+            var base_url = "index.html";
+        </script></head><body id="Home" class="about-us" data-spy="scroll"><!-- Navbar --><nav class="navbar navbar-transparent navbar-fixed-top navbar-color-on-scroll" role="navigation"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-bar"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="index.html"><div class="logo-container"><div class="logo"><img src="assets/admin/assets/img/logo.png" alt="Smart School"></div></div><!--./logo-container--></a></div><!--./navbar-header--><div class="collapse navbar-collapse" id="navigation-bar"><ul class="social-network header-banner"><li><a href="https://www.facebook.com/Smart-School-1471650676181486/" target="_blank"><i class="fa fa-facebook-square"></i></a></li><li><a href="https://twitter.com/SmartSchoolLive" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/@QDOCS/videos" target="_blank"><i class="fa fa-youtube"></i></a></li></ul><ul class="nav navbar-nav navbar-right"><li class="" ><a href="index.html"><i class="fa fa-home"></i> Home</a></li><li class="" ><a href="feature.html"><i class="fa fa-server fasize2"></i> Features</a></li><li class="active" ><a href="demo.html"><i class="material-icons">computer</i> Demo</a></li><li class="" ><a href="how-it-work.html"><i class="fa fa-lightbulb-o"></i> How it Works</a></li><li class="dropdown "><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="material-icons">description</i> Help & Documentation</a><ul class="dropdown-menu dropdown-with-icons"><li class="" ><a href="articles.php"><i class="fa fa-book fasize2"></i> Articles</a></li><li class="" ><a href="faq.html"><i class="fa fa-question-circle fasize2"></i> FAQ</a></li><!----><li><a href="docs/index.html" target="_blank"><i class="material-icons fasize2">assignment</i>User Documentation</a></li><li><a href="https://www.youtube.com/@QDOCS/videos" target="_blank"><i class="fa fa-play-circle fasize2"></i> Video Tutorial</a></li><li class=""><a href="category/changelog.html"><i class="material-icons fasize2">code</i> Changelog</a></li><li><a href="category/known-issues.html"><i class="material-icons fasize2">bug_report</i> Known Issues</a></li></ul></li><li><a href="https://support.qdocs.net/" target="_blank"><i class="fa fa-life-ring fasize2"></i> Support</a></li><!--<li class="" ><a href=""><i class="fa fa-book fasize2"></i> Articles</a></li><li class="" ><a href=""><i class="fa fa-question-circle fasize2"></i> FAQ</a></li> --><li class="buylr"><a href="https://1.envato.market/smart_school" target="_blank" class="btn btn-success btn-sm btn-round"><i class="material-icons">shopping_cart</i> Buy Now $59</a></li></ul></div></div></nav><!--End Navbar--><div class="wrapper"><div class="page-header header-filter innerbanner" data-parallax="active"><div class="container"><div class="row"><div class="col-md-8 col-md-offset-2"><h1 class="title text-uppercase">Demo</h1></div></div></div></div><div class="main main-school"><section class="spacet35 spaceb35 why radius6r"><div class="container"><div class="row"><div class="col-md-8 col-md-offset-2"><div class="section-header space35 text-center"><h1 class="section-title wow fadeInRight animated">Try Smart School demo</h1><h2 class="section-subtitle wow fadeInLeft animated">Try handson demonstration of Smart School with sample data </h2><br /><br /></div></div><div class="col-md-8 col-sm-6 wow fadeInLeft"><img src="assets/admin/assets/img/features.png" alt="" class="img-responsive"></div><div class="col-md-4 col-lg-3 col-sm-6 wow fadeInRight col-md-offset-1"><div class="list-item"><ul><li><a href="https://demo.smart-school.in/site/login" class="btn btn-lg btn-primary" target="_blank"><i class="fa fa-user-plus" aria-hidden="true"></i>Super Admin Login </a></li><li><a href="https://demo.smart-school.in/site/userlogin" class="btn btn-lg btn-success" target="_blank" style="font-weight: normal !important; color: #000 !important;" ><i class="fa fa-user" style="color:#000 !important"></i> Student Login</a></li><li><a href="https://demo.smart-school.in/site/userlogin" class="btn btn-upgrade btn-lg" target="_blank"><i class="material-icons" style="padding-right: 35px;">people</i> Parent Login</a></li><li><a href="https://demo.smart-school.in/site/login" class="btn btn-lg btn-admin" target="_blank"><i class="fa fa-user-plus" aria-hidden="true"></i>Admin Login </a></li><li><a href="https://demo.smart-school.in/site/login" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-user-secret"></i>Teacher Login </a></li><li><a href="https://demo.smart-school.in/site/login" class="btn btn-lg btn-warning" target="_blank"><i class="fa fa-usd"></i>accountant Login</a></li><li><a href="https://demo.smart-school.in/site/login" class="btn btn-default btn-lg blue_new" target="_blank"><i class="fa fa-ioxhost"></i>Receptionist Login</a></li><li><a href="https://demo.smart-school.in/site/login" class="btn btn-default btn-lg green_new" target="_blank"><i class="fa fa-book"></i>librarian Login</a></li><li><a href="https://demo.smart-school.in/" class="btn btn-lg btn-admin" target="_blank"><img src="assets/admin/assets/img/dungeon-solid.svg" class="imgsvg">Front Site</a></li><li><a href="https://codecanyon.net/item/smart-school-android-app-mobile-application-for-smart-school/23664144" class="btn btn-upgrade btn-lg" target="_blank"><i class="fa fa-android"></i>Android App</a></li></ul></div></div></div></div></section></div><footer class="full-footer"><div class="container"><div class="row"><div class="col-md-12 fullfooter"><div class="col-md-3 col-sm-6"><h3 class="fo-title">Meet Smart School</h3><div class="divider"></div><ul class="fo-list"><li><a href="index.html">Home</a></li><li><a href="feature.html">Features</a></li><li><a href="demo.html">Demo</a></li><li><a href="how-it-work.html">How it Works</a></li><li><a href="docs/index.html" target="_blank">Documentation</a></li><li><a href="articles.php">Articles</a></li><li class="" ><a href="faq.html">FAQ</a></li><li><a href="http://support.qdocs.net/" target="_blank">Support</a></li></ul></div><!--./col-md-3--><div class="col-md-2 col-sm-6"><h3 class="fo-title">Follow us</h3><div class="divider"></div><ul class="footer-social"><li><a href="https://www.facebook.com/Smart-School-1471650676181486/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/SmartSchoolLive" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/playlist?list=PLRyqKhLrbTa04IOguu-mjojT5sFbInUQa" class="youtube" target="_blank"><i class="fa fa-youtube"></i></a></li></ul></div><!--./col-md-3--><div class="col-md-5 col-sm-12"><h3 class="fo-title">Testimonials</h3><div class="divider"></div><div class="col-md-12 col-sm-12"><div id="carousel-testimonial" class="carousel slide carousel2" data-ride="carousel"><div class="carousel-inner roundlr" role="listbox"><div class="item active"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">I really can't thank you enough. You're a real professional company and I'm glad to bought your product.</h5><h5 class="card-description card-title2">I really wanted to select a reason for my rating that includes ALL THE ABOVE (*****) with love.</h5><h6 class="category2">by dr_saif</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Documentation Quality</h4><div class="clear"><h5 class="card-description card-title2">Clear and concise documentation in the history of codecayon platform. Just keep it up. I would have given you 100 stars if available!</h5><h6 class="category2">by MztyHyper12</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">Customer Support is very amazing. Very Great work.</h5><h6 class="category2">by talhayousaf471</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Code Quality</h4><div class="clear"><h5 class="card-description card-title2">Nice work easy to install really recomended</h5><h5 class="card-description card-title2">Download - Install - Done</h5><h6 class="category2">by KurJay</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Design Quality</h4><div class="clear"><h5 class="card-description card-title2">Best Erp for school managment.</h5><h6 class="category2">by akashbgp09</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Code Quality</h4><div class="clear"><h5 class="card-description card-title2">Very good and perfect software. keep it up guys.</h5><h6 class="category2">by royalappstech</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">Support trying their best to help.</h5><h6 class="category2">by waseem_jatt</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Feature Availability</h4><div class="clear"><h5 class="card-description card-title2">Thanks for giving full Features.</h5><h6 class="category2">by irfan900</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">You make it look easy and you're really improving. SPLENDID!. But remember the customer service is the new marketing. We don’t expect you to be perfect but do expect you to fix things when they go wrong.</h5><h6 class="card-description card-title2">Always do more than is required of you.</h6><h6 class="category2">by ikmansri</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Code Quality</h4><div class="clear"><h5 class="card-description card-title2">"The best school management system of all time."</h5><h6 class="category2">by demirbey</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">"Excellent customer support. Initially I had issue in the software but these guys fixed it in no time."</h5><h6 class="category2">by Mohd_Saquib_Siddiqui</h6></div></div></a></div><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Flexibility</h4><div class="clear"><h5 class="card-description card-title2">"Great Product!!"</h5><h6 class="category2">by gan16</h6></div></div></a></div><!--./item--><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">"Please Code Cyan add one more option in main reason for you rating dropdown and named it All Of Them...QDOCS Rocks..."</h5><h6 class="category2">by travis786</h6></div></div></a></div><!--./item--><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">"Good work guys"</h5><h6 class="category2">by webfreakers</h6></div></div></a></div><!--./item--><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Design Quality</h4><div class="clear"><h5 class="card-description card-title2">"Good Quality Product"</h5><h6 class="category2">by Yellowrays</h6></div></div></a></div><!--./item--><div class="item"><a href="https://codecanyon.net/item/smart-school-school-management-system/reviews/19426018" target="_blank"><div class="card card-testimonial card-plain"><div class="footer testi-left"><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i><i class="material-icons text-warning">star</i></div><h4 class="card-title testi-title">for Customer Support</h4><div class="clear"><h5 class="card-description card-title2">"Awesome and Incredible Support, Great Team"</h5><h6 class="category2">by kalaithesurvivor</h6></div></div></a></div><!--./item--></div><a class="left carousel-control" href="#carousel-testimonial" role="button" data-slide="prev"><i class="material-icons" aria-hidden="true">chevron_left</i></a><a class="right carousel-control" href="#carousel-testimonial" role="button" data-slide="next"><i class="material-icons" aria-hidden="true">chevron_right</i></a></div><!--./carousel-testimonial--></div></div><!--./col-md-5--><div class="col-md-2 col-sm-6"><h3 class="fo-title">Also Available On</h3><div class="divider"></div><a href="https://play.google.com/store/apps/details?id=com.qdocs.smartschooldemo" target="_blank"><img src="assets/admin/assets/img/google-play.png" class="img-responsive"></a></div><!--./col-md-3--><div><!--./col-md-12--></div><!--./row--></div><!--./container--></footer><section class="copy-right2"><div class="container"><div class="row"><div class="col-lg-12"><p><a href="http://qdocs.in/" target="_blank"><img src="assets/admin/assets/img/qd-new.png" width="100" alt="Smart School" style="padding-right: 10px;vertical-align: text-bottom;" /></a> © 2024 All Rights Reserved</p><a class="w-toplink active page-scrollimg-raised" style="display: none;" href="#Home" id="back-to-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a></div></div><!--./row--></div><!--./container--></section><!--<div class="chatbtn">--><!--Begin Comm100 Live Chat Code--><!--<div id="comm100-button-724"></div><script type="text/javascript">
+                                var Comm100API = Comm100API || {};
+                                (function (t) {
+                                    function e(e) {
+                                        var a = document.createElement("script"), c = document.getElementsByTagName("script")[0];
+                                        a.type = "text/javascript", a.async = !0, a.src = e + t.site_id, c.parentNode.insertBefore(a, c)
+                                    }
+                                    t.chat_buttons = t.chat_buttons || [], t.chat_buttons.push({code_plan: 724, div_id: "comm100-button-724"}), t.site_id = 70170, t.main_code_plan = 724, e("https://chatserver.comm100.com/livechat.ashx?siteId="), setTimeout(function () {
+                                        t.loaded || e("https://hostedmax.comm100.com/chatserver/livechat.ashx?siteId=")
+                                    }, 5e3)
+                                })(Comm100API || {})
+                            </script>--><!--End Comm100 Live Chat Code--><!--</div>--></div><!--./wrapper--><!--Core JS Files--><script src="assets/admin/assets/js/jquery.min.js" type="text/javascript"></script><script src="assets/admin/assets/js/bootstrap.min.js" type="text/javascript"></script><script src="assets/admin/assets/js/scrolling-nav.js"></script><script src="assets/admin/assets/js/support-qdocs.js"></script><script src="assets/admin/assets/js/qdocs-kite.js" type="text/javascript"></script><script src="assets/admin/assets/js/jquery.easing.min.js"></script><script src="assets/admin/assets/js/wodry.min.js"></script><script type="text/javascript">
+            $(document).ready(function () {
+                $("ul.sub-menu").parent().addClass("dropdown");
+                $("ul.sub-menu").addClass("dropdown-menu");
+                $("ul#main-menu li.dropdown a").addClass("dropdown-toggle");
+                $("ul.sub-menu li a").removeClass("dropdown-toggle");
+                $('.navbar .dropdown-toggle').append('<b class="caret"></b>');
+                $('a.dropdown-toggle').attr('data-toggle', 'dropdown');
+            });
+            $('.wodryRX').wodry({
+                animation: 'rotateX',
+                delay: 4000,
+                animationDuration: 1600
+            });
+
+            $('.faq_question').click(function () {
+                //$(this).next('ac-small').slideToggle('500');
+                //$(".ac-container label").slideDown();
+                $(this).find('i').toggleClass('fa-plus fa-minus')
+
+            });
+            $(document).ready(function () {
+                $(".ac-container label").click(function () {
+                    $(".ac-small").slideUp(150).attr('aria-hidden', 'true');
+                });
+                $(".ac-container").click(function () {
+                    $(".ac-small").slideDown(150).attr('aria-hidden', 'false');
+                });
+            });
+
+
+        </script><script type="text/javascript">
+            function toggleIcon(e) {
+                $(e.target)
+                        .prev('.panel-heading')
+                        .find(".more-less")
+                        .toggleClass('fa-plus-circle fa-minus-circle');
+            }
+            $('.panel-group').on('hidden.bs.collapse', toggleIcon);
+            $('.panel-group').on('shown.bs.collapse', toggleIcon);
+
+        </script><!-- <script src=""></script><script type="text/javascript">
+              $('.main-div').enscroll({
+          showOnHover: false,
+          verticalTrackClass: 'track3',
+          verticalHandleClass: 'handle3'
+          });
+          </script>--><!-- Latest compiled and minified JavaScript --><script src="assets/admin/assets/js/bootstrap-select.min.js"></script><script src="assets/admin/assets/js/wow.min.js"></script><script type="text/javascript">
+            $('select').selectpicker();
+
+            wow = new WOW({}).init();
+        </script></body>
+<!-- Mirrored from smart-school.in/demo by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2025 14:25:24 GMT -->
+</html><script type="text/javascript">
+            var currentFocus;
+            $(document).ready(function () {
+                $(document).on('propertychange input', '#myInput', function () {
+                    $('#myInput').popover('hide');
+                    currentFocus = -1;
+                    var keyword_value = $(this).val();
+                    if (!keyword_value.length) {
+                        $('.autocomplete-items').remove();
+                        return false;
+                    }
+                    $.ajax({
+                        url: "https://smart-school.in/home/autocomplete",
+                        data: {'keyword': keyword_value},
+                        type: 'POST',
+                        dataType: 'JSON',
+                        beforeSend: function () {
+
+
+                        },
+                        success: function (result) {
+                            $('.autocomplete-items').remove();
+                            var div = $('<div />', {
+                                "class": 'autocomplete-items',
+                                "id": 'myInputautocomplete-list',
+                            }
+                            );
+                            $.each(result.result, function (index, value) {
+
+                                div.append($('<div>', {
+                                    id: 'inner-div',
+                                    class: (value.category_name == "FAQ") ? "FAQ" : "standard",
+                                }).append($('<a>', {
+                                    id: 'innerdiv',
+                                    title: value.slug,
+                                    text: value.title + " ",
+                                    href: (value.category_name == "FAQ") ? base_url + "faq/" + value.slug : base_url + "article/" + value.slug
+                                }).append($('<span>', {
+                                    class: 'badge',
+                                    text: value.category_name
+
+                                }))).append($('<input>', {
+                                    id: 'innerdiv',
+                                    type: 'hidden',
+                                    val: value.title
+
+                                })));
+                            });
+
+                            div.appendTo($('form#new_article_form').find('div.autocomplete'));
+
+                        },
+                        error: function (xhr) { // if error occured
+                            alert("Error occured.please try again");
+
+                        },
+                        complete: function () {
+
+                        }
+
+                    });
+
+                });
+
+                $(document).on('keydown', '#myInput', function (e) {
+                    if (e.keyCode == 40) {
+                        currentFocus++;
+
+                        addActive();
+                        scrollsearch();
+                    } else if (e.keyCode == 38) { //up
+                        currentFocus--;
+                        addActive();
+                        scrollsearch();
+                    } else if (e.keyCode == 13) {
+                        /*If the ENTER key is pressed, prevent the form from being submitted,*/
+                        // e.preventDefault();
+
+
+                        $('form#new_article_form').find('div.autocomplete-items div').eq(currentFocus).trigger("click");
+                    } else if (e.keyCode == 27) {
+                        $('.autocomplete-items').remove();
+                    }
+
+                });
+
+            });
+            function addActive() {
+                /*a function to classify an item as "active":*/
+                var div_list = $('form#new_article_form').find('div.autocomplete-items div');
+
+                /*start by removing the "active" class on all items:*/
+                removeActive();
+
+                if (currentFocus >= div_list.length)
+                    currentFocus = 0;
+                // if (currentFocus < 0) currentFocus = (x.length - 1);
+                /*add class "autocomplete-active":*/
+
+                // x[currentFocus].classList.add("autocomplete-active");
+                $('form#new_article_form').find('div.autocomplete-items div').eq(currentFocus).addClass("autocomplete-active");
+            }
+
+            function removeActive() {
+                /*a function to remove the "active" class from all autocomplete items:*/
+                $('form#new_article_form').find('div.autocomplete-items div').removeClass('autocomplete-active');
+            }
+
+            $(document).on('click', '.autocomplete-active', function () {
+                $('#myInput').val("").val($('.autocomplete-active').find('input').val());
+            });
+            $(document).on('click', function (e) {
+                closeArticleLists(e.target);
+            });
+            function closeArticleLists(elemnt) {
+
+                if (elemnt != document.getElementById("myInput")) {
+                    $('.autocomplete-items').remove();
+                }
+            }
+            function scrollsearch() {
+                $(".autocomplete-items").scrollTop(0);//set to top
+                $(".autocomplete-items").scrollTop($('.autocomplete-active:first').offset().top - ($(".autocomplete-items").height() + ($(".autocomplete-active").height() * 4)));
+            }
+        </script><script type="text/javascript">
+
+            $(function () {
+                $("form#new_article_form").submit(function () {
+
+                    var valid = 0;
+                    var value = $.trim($(this).find('input[type=text]').val());
+
+                    if (value.length >= 3) {
+                        valid += 1;
+                    }
+
+                    if (valid) {
+                        return true;
+                    }
+                    else {
+                        $('#myInput').popover('show');
+                        return false;
+                    }
+                });
+            });
+
+
+            $('#myInput').popover({
+                html: true,
+                trigger: 'manual',
+                placement: 'bottom',
+                content: '<div class="text text-danger">Please enter atleast 3 character</div>',
+                template: '<div class="popover my-popover" role="tooltip"><div class="arrow"></div><div class="popover-content"></div></div>'
+            });
+
+
+            $(document).on('change', '.category_dropdown', function () {
+                this.form.submit();
+            });
+        </script>

@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Jan 2025 15:24:50 at https://smart-school.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://smart-school.in/ -O1 "C:\Users\HP PC\Downloads\https___smart-school.in_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:27:43	Warning: 	File not parsed, looks like binary: https://smart-school.in/assets/admin/assets/img/arrow-left.cur
+15:27:43	Warning: 	File not parsed, looks like binary: https://smart-school.in/assets/admin/assets/img/arrow-right.cur
+15:27:43	Error: 	"Not Found" (404) at link https://smart-school.in/assets/admin/assets/img/bg.jpg (from https://smart-school.in/assets/admin/assets/css/demo.css)
+15:34:43	Error: 	"Not Found" (404) at link https://smart-school.in/article/can-i-use-smart-school-for-multi-school-or-multi-branch-management (from https://smart-school.in/article/can-i-use-special-character-in-smart-school)
+15:37:06	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-to-check-homework-evaluation-report-1 (from https://smart-school.in/article/about-student-information)
+15:40:02	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-to-enabledisable-zoom-client-app-usage (from https://smart-school.in/article/how-to-generate-the-zoom-api-credential)
+15:40:02	Error: 	"Not Found" (404) at link https://smart-school.in/article/old-how-to-generate-the-zoom-api-credential (from https://smart-school.in/article/how-to-enabled-disabled-the-parent-for-zoom-live-classes)
+15:41:05	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-to-check-homework-evaluation-report (from https://smart-school.in/article/about-homework)
+15:41:05	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-student-can-view-homework-list (from https://smart-school.in/article/about-homework)
+15:41:06	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-to-upload-content (from https://smart-school.in/article/about-download-center)
+15:41:06	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-to-view-study-material (from https://smart-school.in/article/how-to-add-content-type)
+15:41:06	Error: 	"Not Found" (404) at link https://smart-school.in/article/how-to-view-syllabus (from https://smart-school.in/article/how-to-add-content-type)
+15:42:00	Error: 	"Not Found" (404) at link https://smart-school.in/article/smart-school-version-6-0-0 (from https://smart-school.in/article/version-4-1-1)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/fonts/glyphicons-halflings-regular.eot (from https://smart-school.in/docs/assets/css/bootstrap.min.css)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/fonts/glyphicons-halflings-regular.eot? (from https://smart-school.in/docs/assets/css/bootstrap.min.css)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/fonts/glyphicons-halflings-regular.woff2 (from https://smart-school.in/docs/assets/css/bootstrap.min.css)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/fonts/glyphicons-halflings-regular.woff (from https://smart-school.in/docs/assets/css/bootstrap.min.css)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/fonts/glyphicons-halflings-regular.ttf (from https://smart-school.in/docs/assets/css/bootstrap.min.css)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/fonts/glyphicons-halflings-regular.svg (from https://smart-school.in/docs/assets/css/bootstrap.min.css)
+15:42:06	Error: 	"Not Found" (404) at link https://smart-school.in/docs/assets/img/boxed-bg.jpg (from https://smart-school.in/docs/assets/css/docmain.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/fonts/glyphicons-halflings-regular.eot (from https://smart-school.in/ssba-docs/assets/css/bootstrap.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/fonts/glyphicons-halflings-regular.eot? (from https://smart-school.in/ssba-docs/assets/css/bootstrap.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/fonts/glyphicons-halflings-regular.woff2 (from https://smart-school.in/ssba-docs/assets/css/bootstrap.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/fonts/glyphicons-halflings-regular.woff (from https://smart-school.in/ssba-docs/assets/css/bootstrap.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/fonts/glyphicons-halflings-regular.ttf (from https://smart-school.in/ssba-docs/assets/css/bootstrap.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/fonts/glyphicons-halflings-regular.svg (from https://smart-school.in/ssba-docs/assets/css/bootstrap.min.css)
+15:42:09	Error: 	"Not Found" (404) at link https://smart-school.in/ssba-docs/assets/img/boxed-bg.jpg (from https://smart-school.in/ssba-docs/assets/css/docmain.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 18 seconds : 2014 links scanned, 1988 files written (219129451 bytes overall) [201473759 bytes received at 194098 bytes/sec], 23033607 bytes transferred using HTTP compression in 609 files, ratio 20%, 14.7 requests per connection
+(25 errors, 2 warnings, 0 messages)
