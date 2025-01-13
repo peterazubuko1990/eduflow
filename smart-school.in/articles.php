@@ -598,7 +598,7 @@
                                     </li>
                                     <li><a href="article/how-to-view-video-tutorial-from-student-site.html">How to view
                                             video tutorial from student site?</a></li>
-                                    <li><a href="article/how-to-add-daily-assignment-from-the-student-side.html">How to
+                                    <li><a href="article/how-to-add-daily-assignment-from-the-student-side.php">How to
                                             add daily assignment from the student side?</a></li>
                                     <li>
                                         <a href="article/how-student-can-view-their-yearly-session-attendance-from-student-panel.php">How
