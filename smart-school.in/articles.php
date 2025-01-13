@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
-<!-- Mirrored from smart-school.in/articles by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2025 14:25:43 GMT -->
-<!-- Added by HTTrack -->
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
 <?php include 'header.php'; ?>
 <body id="Home" class="about-us" data-spy="scroll"><!-- Navbar -->
@@ -42,18 +41,18 @@
                                             href="category/getting-started.html">Getting Started <span>(2)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/general-overview.html">General Overview</a></li>
-                                    <li><a href="article/configure-smart-school-to-use-in-local-lan-network.html">Configure
-                                            Smart School To Use In Local LAN Network</a></li>
+                                    <li><a href="article/general-overview.php">General Overview</a></li>
+                                    <li><a href="article/configure-smart-school-to-use-in-local-lan-network.php">Configure
+                                            Eduflow To Use In Local LAN Network</a></li>
                                 </ul>
                             </div>
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/installation.html">Installation <span>(9)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/server-requirements.html">Server Requirements</a></li>
-                                    <li><a href="article/404-or-page-not-found-error-during-installation.html">404 Or
+                                    <li><a href="article/404-or-page-not-found-error-during-installation.php">404 Or
                                             Page Not Found Error During Installation</a></li>
-                                    <li><a href="article/cpanel-installation.html">cPanel Installation</a></li>
+                                    <li><a href="article/cpanel-installation.php">cPanel Installation</a></li>
                                     <li><a href="article/xampp-installation.html">XAMPP Installation</a></li>
                                     <li><a href="article/wamp-installation.html">WAMP Installation</a></li>
                                 </ul>
@@ -66,21 +65,21 @@
                                 <ul class="article-list">
                                     <li>
                                         <a href="article/updating-smart-school-from-previous-version-to-latest-version.html">Updating
-                                            Smart School From Previous Version To Latest Version</a></li>
+                                            eduflow From Previous Version To Latest Version</a></li>
                                 </ul>
                             </div>
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/common-issues-troubleshooting.html">Common Issues &
                                         Troubleshooting <span>(14)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/404-or-page-not-found-error-in-installation.html">404 Or Page
+                                    <li><a href="article/404-or-page-not-found-error-in-installation.php">404 Or Page
                                             Not Found Error In Installation</a></li>
-                                    <li><a href="article/enabling-ssl-in-smart-school.html">Enabling SSL In Smart
+                                    <li><a href="article/enabling-ssl-in-smart-school.php">Enabling SSL In Smart
                                             School</a></li>
                                     <li><a href="article/unable-to-login-or-missing-login-url.html">Unable To Login Or
                                             Missing Login URL</a></li>
                                     <li><a href="article/to-port-or-move-smart-school-on-new-server.html">To Port Or
-                                            Move Smart School On New Server</a></li>
+                                            Move eduflow On New Server</a></li>
                                     <li><a href="article/only_full_group_by-issue-on-server.html">ONLY_FULL_GROUP_BY
                                             Issue On Server</a></li>
                                 </ul>
@@ -91,15 +90,15 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a href="category/faq.html">FAQ
                                         <span>(22)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/can-i-use-special-character-in-smart-school.html">Can I use
-                                            special character in Smart School?</a></li>
+                                    <li><a href="article/can-i-use-special-character-in-smart-school.php">Can I use
+                                            special character in eduflow?</a></li>
                                     <li>
                                         <a href="article/how-to-restrict-teacher-to-access-only-their-assigned-student-data.html">How
                                             to restrict Teacher to access only their assigned student data?</a></li>
                                     <li><a href="article/how-to-assign-fees-to-student-in-smart-school.html">How to
-                                            assign fees to student in Smart School?</a></li>
+                                            assign fees to student in eduflow?</a></li>
                                     <li><a href="article/want-to-know-about-smart-school-biometric-attendance-app.html">Want
-                                            to know about Smart School Biometric Attendance App?</a></li>
+                                            to know about eduflow Biometric Attendance App?</a></li>
                                     <li>
                                         <a href="article/what-is-the-difference-between-examination-and-online-examination.html">What
                                             is the difference between Examination and Online Examination?</a></li>
@@ -109,12 +108,12 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/miscellaneous.html">Miscellaneous <span>(5)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-chat.html">About Chat</a></li>
-                                    <li><a href="article/about-calendar.html">About Calendar</a></li>
+                                    <li><a href="article/about-chat.php">About Chat</a></li>
+                                    <li><a href="article/about-calendar.php">About Calendar</a></li>
                                     <li><a href="article/how-to-add-new-event-in-calendar.html">How to add new event in
                                             calendar?</a></li>
                                     <li><a href="article/how-to-add-to-do-list.html">How to add To Do List?</a></li>
-                                    <li><a href="article/how-to-add-contact-in-chat.html">How to add contact in
+                                    <li><a href="article/how-to-add-contact-in-chat.php">How to add contact in
                                             chat?</a></li>
                                 </ul>
                             </div>
@@ -124,8 +123,8 @@
                                             href="category/system-settings.html">System Settings <span>(30)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-system-settings.html">About System Settings</a></li>
-                                    <li><a href="article/about-id-auto-generation.html">About ID Auto Generation</a>
+                                    <li><a href="article/about-system-settings.php">About System Settings</a></li>
+                                    <li><a href="article/about-id-auto-generation.php">About ID Auto Generation</a>
                                     </li>
                                     <li><a href="article/how-to-manage-attendance-type.html">How to manage attendance
                                             type?</a></li>
@@ -139,9 +138,9 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/academics.html">Academics <span>(11)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-academics.html">About Academics</a></li>
+                                    <li><a href="article/about-academics.php">About Academics</a></li>
                                     <li><a href="article/how-to-add-section.html">How to add Section?</a></li>
-                                    <li><a href="article/how-to-add-class.html">How to add Class?</a></li>
+                                    <li><a href="article/how-to-add-class.php">How to add Class?</a></li>
                                     <li><a href="article/how-to-assign-class-teacher.html">How to Assign Class
                                             Teacher?</a></li>
                                     <li><a href="article/how-to-add-subjects.html">How to add Subjects?</a></li>
@@ -154,10 +153,10 @@
                                             href="category/cbse-examination.html">CBSE Examination <span>(22)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-cbse-examination.html">About CBSE Examination</a></li>
+                                    <li><a href="article/about-cbse-examination.php">About CBSE Examination</a></li>
                                     <li><a href="article/how-to-add-the-term-in-cbse-examination.html">How to add the
                                             term in CBSE Examination?</a></li>
-                                    <li><a href="article/how-to-add-assessment-in-cbse-examination.html">How to add
+                                    <li><a href="article/how-to-add-assessment-in-cbse-examination.php">How to add
                                             assessment in CBSE Examination?</a></li>
                                     <li><a href="article/how-to-add-the-observation-parameter-in-cbse-examination.html">How
                                             to add the observation parameter in CBSE Examination?</a></li>
@@ -170,7 +169,7 @@
                                             href="category/online-admission.html">Online Admission <span>(7)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-online-admission.html">About Online Admission?</a></li>
+                                    <li><a href="article/about-online-admission.php">About Online Admission?</a></li>
                                     <li><a href="article/how-to-manage-online-admission-setting.html">How to manage
                                             online admission setting?</a></li>
                                     <li><a href="article/how-to-fill-online-admission-form.html">How to fill online
@@ -188,7 +187,7 @@
                                             href="category/student-information.html">Student Information
                                         <span>(26)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-student-information.html">About Student Information</a>
+                                    <li><a href="article/about-student-information.php">About Student Information</a>
                                     </li>
                                     <li>
                                         <a href="article/how-to-check-student-yearly-session-attendance-in-his-profile-page-from-the-superadmin-side.html">How
@@ -207,7 +206,7 @@
                                             href="category/fees-collection.html">Fees Collection <span>(19)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-fees-collection.html">About Fees Collection</a></li>
+                                    <li><a href="article/about-fees-collection.php">About Fees Collection</a></li>
                                     <li><a href="article/how-to-add-fees-type.html">How to add Fees Type?</a></li>
                                     <li><a href="article/how-to-add-fees-group.html">How to add Fees Group?</a></li>
                                     <li><a href="article/how-to-add-fees-master.html">How to add Fees Master?</a></li>
@@ -221,7 +220,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/examinations.html">Examinations <span>(17)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-examination.html">About Examination</a></li>
+                                    <li><a href="article/about-examination.php">About Examination</a></li>
                                     <li><a href="article/how-to-add-marks-grade.html">How to add Marks Grade?</a></li>
                                     <li><a href="article/how-to-add-exam-group.html">How to add Exam Group?</a></li>
                                     <li><a href="article/how-to-assignview-student-for-exam.html">How to assign/view
@@ -235,7 +234,7 @@
                                             href="category/online-examinations.html">Online Examinations
                                         <span>(13)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-online-examination.html">About Online Examination</a>
+                                    <li><a href="article/about-online-examination.php">About Online Examination</a>
                                     </li>
                                     <li><a href="article/how-to-add-question-bank.html">How to add Question Bank?</a>
                                     </li>
@@ -252,7 +251,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/front-cms.html">Front CMS <span>(9)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-front-cms.html">About Front CMS</a></li>
+                                    <li><a href="article/about-front-cms.php">About Front CMS</a></li>
                                     <li><a href="article/how-to-add-menus.html">How to add menus?</a></li>
                                     <li><a href="article/how-to-upload-file-in-media-manager.html">How to upload file in
                                             Media Manager?</a></li>
@@ -264,9 +263,9 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/multi-branch.html">Multi Branch <span>(7)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-multi-branch.html">About Multi Branch</a></li>
+                                    <li><a href="article/about-multi-branch.php">About Multi Branch</a></li>
                                     <li><a href="article/how-to-add-the-new-branch-in-smart-school-home-branch.html">How
-                                            to add the new branch in Smart School home branch?</a></li>
+                                            to add the new branch in eduflow School home branch?</a></li>
                                     <li><a href="article/how-to-edit-a-branch.html">How to edit a branch?</a></li>
                                     <li><a href="article/how-to-delete-the-branch.html">How to delete the branch?</a>
                                     </li>
@@ -280,8 +279,8 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/online-course.html">Online Course <span>(18)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-online-course.html">About Online Course?</a></li>
-                                    <li><a href="article/how-to-add-course.html">How to add Course?</a></li>
+                                    <li><a href="article/about-online-course.php">About Online Course?</a></li>
+                                    <li><a href="article/how-to-add-course.php">How to add Course?</a></li>
                                     <li><a href="article/how-to-order-section.html">How to order section?</a></li>
                                     <li><a href="article/how-to-publishunpublish-course.html">How to publish/unpublish
                                             course?</a></li>
@@ -294,7 +293,7 @@
                                             href="category/behaviour-records.html">Behaviour Records
                                         <span>(10)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-behaviour-records.html">About Behaviour Records</a></li>
+                                    <li><a href="article/about-behaviour-records.php">About Behaviour Records</a></li>
                                     <li><a href="article/how-to-check-the-list-of-incidents.html">How to check the list
                                             of incidents?</a></li>
                                     <li><a href="article/how-to-edit-the-incidents-in-the-incident-list.html">How to
@@ -312,7 +311,7 @@
                                             href="category/two-factor-authentication.html">Two Factor Authentication
                                         <span>(12)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-two-factor-authentication.html">About Two Factor
+                                    <li><a href="article/about-two-factor-authentication.php">About Two Factor
                                             Authentication</a></li>
                                     <li><a href="article/how-to-enable-disable-two-factor-authentication.html">How to
                                             enable / disable Two Factor Authentication?</a></li>
@@ -331,7 +330,7 @@
                                 <ul class="article-list">
                                     <li><a href="article/how-to-generate-the-zoom-api-credential.html">How to generate
                                             the zoom API credential?</a></li>
-                                    <li><a href="article/about-zoom-live-class.html">About zoom live class</a></li>
+                                    <li><a href="article/about-zoom-live-class.php">About zoom live class</a></li>
                                     <li><a href="article/how-to-configure-zoom-live-class.html">How to configure zoom
                                             live class?</a></li>
                                     <li><a href="article/how-to-enabledisable-teacher-api-credential.html">How to
@@ -347,7 +346,7 @@
                                             href="category/gmeet-live-class.html">Gmeet Live Class <span>(11)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-gmeet-live-classes.html">About Gmeet Live Classes</a>
+                                    <li><a href="article/about-gmeet-live-classes.php">About Gmeet Live Classes</a>
                                     </li>
                                     <li><a href="article/how-to-get-gmeet-url.html">How to get Gmeet URL?</a></li>
                                     <li><a href="article/how-to-create-gmeet-live-class.html">How to create Gmeet Live
@@ -362,7 +361,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/lesson-plan.html">Lesson Plan <span>(8)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-lesson-plan.html">About Lesson Plan</a></li>
+                                    <li><a href="article/about-lesson-plan.php">About Lesson Plan</a></li>
                                     <li><a href="article/how-to-add-lesson.html">How To Add Lesson?</a></li>
                                     <li><a href="article/how-to-add-topic.html">How To Add Topic?</a></li>
                                     <li><a href="article/how-to-add-lesson-plan.html">How to add Lesson Plan?</a></li>
@@ -393,7 +392,7 @@
                                             href="category/qr-code-attendance.html">QR Code Attendance <span>(5)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-qr-code-attendance.html">About QR Code Attendance</a>
+                                    <li><a href="article/about-qr-code-attendance.php">About QR Code Attendance</a>
                                     </li>
                                     <li>
                                         <a href="article/how-to-disabled-the-auto-attendance-and-mark-the-attendance-of-student-and-staff-using-qr-code-barcode.html">How
@@ -414,17 +413,17 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/alumni.html">Alumni <span>(4)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-alumni.html">About Alumni</a></li>
-                                    <li><a href="article/how-to-add-alumni.html">How to Add Alumni?</a></li>
+                                    <li><a href="article/about-alumni.php">About Alumni</a></li>
+                                    <li><a href="article/how-to-add-alumni.php">How to Add Alumni?</a></li>
                                     <li><a href="article/how-to-create-alumni-events.html">How To Create Alumni
                                             Events?</a></li>
-                                    <li><a href="article/alumni-report.html">Alumni Report</a></li>
+                                    <li><a href="article/alumni-report.php">Alumni Report</a></li>
                                 </ul>
                             </div>
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/front-office.html">Front Office <span>(8)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-front-office.html">About Front Office</a></li>
+                                    <li><a href="article/about-front-office.php">About Front Office</a></li>
                                     <li><a href="article/how-to-setup-front-office.html">How to Setup Front Office?</a>
                                     </li>
                                     <li><a href="article/how-to-add-student-admission-enquiry.html">How to add student
@@ -441,7 +440,7 @@
                                             href="category/human-resource.html">Human Resource <span>(15)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-human-resource.html">About Human Resource</a></li>
+                                    <li><a href="article/about-human-resource.php">About Human Resource</a></li>
                                     <li><a href="article/how-to-add-department.html">How to add Department?</a></li>
                                     <li><a href="article/how-to-add-designation.html">How to add Designation?</a></li>
                                     <li><a href="article/how-to-add-leave-type.html">How to add Leave Type?</a></li>
@@ -453,7 +452,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/certificate.html">Certificate <span>(9)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-certificate.html">About Certificate</a></li>
+                                    <li><a href="article/about-certificate.php">About Certificate</a></li>
                                     <li><a href="article/how-to-add-student-certificate.html">How to add student
                                             Certificate?</a></li>
                                     <li><a href="article/how-to-generate-certificate.html">How to generate
@@ -469,7 +468,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/hostel.html">Hostel <span>(6)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-hostel.html">About Hostel</a></li>
+                                    <li><a href="article/about-hostel.php">About Hostel</a></li>
                                     <li><a href="article/how-to-add-hostel.html">How to Add Hostel?</a></li>
                                     <li><a href="article/how-to-add-room-type.html">How to Add Room Type?</a></li>
                                     <li><a href="article/how-to-add-hostel-rooms.html">How to Add Hostel Rooms?</a></li>
@@ -481,7 +480,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/transport.html">Transport <span>(11)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-transport.html">About Transport</a></li>
+                                    <li><a href="article/about-transport.php">About Transport</a></li>
                                     <li><a href="article/how-to-create-routes.html">How to create Routes?</a></li>
                                     <li><a href="article/how-to-add-vehicles.html">How to add Vehicles?</a></li>
                                     <li><a href="article/how-to-assign-vehicle-to-the-route.html">How to assign vehicle
@@ -496,7 +495,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/inventory.html">Inventory <span>(10)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-inventory.html">About Inventory</a></li>
+                                    <li><a href="article/about-inventory.php">About Inventory</a></li>
                                     <li><a href="article/how-to-create-item-category.html">How to create Item
                                             Category?</a></li>
                                     <li><a href="article/how-to-add-item-store.html">How to add Item Store?</a></li>
@@ -509,8 +508,8 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/library.html">Library <span>(11)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-library.html">About Library</a></li>
-                                    <li><a href="article/how-to-add-book.html">How to add Book?</a></li>
+                                    <li><a href="article/about-library.php">About Library</a></li>
+                                    <li><a href="article/how-to-add-book.php">How to add Book?</a></li>
                                     <li><a href="article/how-to-add-student-as-library-member.html">How to add student
                                             as Library Member?</a></li>
                                     <li><a href="article/how-to-add-staff-member-as-library-member.html">How to add
@@ -525,7 +524,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/homework.html">Homework <span>(6)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-homework.html">About Homework</a></li>
+                                    <li><a href="article/about-homework.php">About Homework</a></li>
                                     <li><a href="article/how-to-add-homework.html">How to add Homework?</a></li>
                                     <li><a href="article/how-to-evaluate-homework.html">How to Evaluate Homework?</a>
                                     </li>
@@ -540,8 +539,8 @@
                                             href="category/download-center.html">Download Center <span>(5)</span></a>
                                 </h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-download-center.html">About Download Center</a></li>
-                                    <li><a href="article/how-to-add-content-type.html">How to add content type?</a></li>
+                                    <li><a href="article/about-download-center.php">About Download Center</a></li>
+                                    <li><a href="article/how-to-add-content-type.php">How to add content type?</a></li>
                                     <li><a href="article/how-to-view-content-share-list.html">How to view Content Share
                                             List?</a></li>
                                     <li><a href="article/how-to-upload-and-share-content.html">How to upload and share
@@ -555,7 +554,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/communicate.html">Communicate <span>(10)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-communicate.html">About Communicate</a></li>
+                                    <li><a href="article/about-communicate.php">About Communicate</a></li>
                                     <li><a href="article/how-to-post-new-message-in-notice-board.html">How to post new
                                             message in Notice Board?</a></li>
                                     <li><a href="article/how-to-send-email.html">How to Send Email?</a></li>
@@ -568,7 +567,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/expenses.html">Expenses <span>(6)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-expense.html">About Expense</a></li>
+                                    <li><a href="article/about-expense.php">About Expense</a></li>
                                     <li><a href="article/how-to-add-expense-head.html">How to add Expense Head?</a></li>
                                     <li><a href="article/how-to-add-expense.html">How to add Expense?</a></li>
                                     <li><a href="article/how-to-search-expense.html">How to Search Expense?</a></li>
@@ -582,7 +581,7 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/income.html">Income <span>(6)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-income.html">About Income</a></li>
+                                    <li><a href="article/about-income.php">About Income</a></li>
                                     <li><a href="article/how-to-add-income-head.html">How to add Income Head?</a></li>
                                     <li><a href="article/how-to-add-income.html">How to add Income?</a></li>
                                     <li><a href="article/how-to-search-income.html">How to search Income?</a></li>
@@ -595,14 +594,14 @@
                                             href="category/studentparent-panel.html">Student/Parent Panel
                                         <span>(23)</span></a></h4>
                                 <ul class="article-list">
-                                    <li><a href="article/about-studentparent-panel.html">About Student/Parent panel</a>
+                                    <li><a href="article/about-studentparent-panel.php">About Student/Parent panel</a>
                                     </li>
                                     <li><a href="article/how-to-view-video-tutorial-from-student-site.html">How to view
                                             video tutorial from student site?</a></li>
                                     <li><a href="article/how-to-add-daily-assignment-from-the-student-side.html">How to
                                             add daily assignment from the student side?</a></li>
                                     <li>
-                                        <a href="article/how-student-can-view-their-yearly-session-attendance-from-student-panel.html">How
+                                        <a href="article/how-student-can-view-their-yearly-session-attendance-from-student-panel.php">How
                                             student can view their yearly (session) Attendance from student panel?</a>
                                     </li>
                                     <li><a href="article/how-to-see-student-dashboard.html">How to see student
@@ -615,19 +614,19 @@
                             <div class="col-md-6 col-lg-6 col-sm-6"><h4 class="info-title"><a
                                             href="category/changelog.html">Changelog <span>(0)</span></a></h4>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school.html">Smart School<span>(21)</span></a>
+                                    <li><a href="category/changelog/smart-school.html">eduflow<span>(21)</span></a>
                                     </li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-android-app.html">Smart School Android
+                                    <li><a href="category/changelog/smart-school-android-app.html">eduflow Android
                                             App<span>(12)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-cbse-examination.html">Smart School
+                                    <li><a href="category/changelog/smart-school-cbse-examination.html">eduflow
                                             CBSE Examination<span>(2)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-multi-branch.html">Smart School Multi
+                                    <li><a href="category/changelog/smart-school-multi-branch.html">eduflow Multi
                                             Branch<span>(2)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
@@ -635,23 +634,23 @@
                                             School Two Factor Authentication<span>(3)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-behaviour-records.html">Smart School
+                                    <li><a href="category/changelog/smart-school-behaviour-records.html">eduflow
                                             Behaviour Records<span>(3)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-zoom-live-class.html">Smart School Zoom
+                                    <li><a href="category/changelog/smart-school-zoom-live-class.html">eduflow Zoom
                                             Live Class<span>(7)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-gmeet-live-class.html">Smart School
+                                    <li><a href="category/changelog/smart-school-gmeet-live-class.html">eduflow
                                             Gmeet Live Class<span>(6)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-online-course.html">Smart School Online
+                                    <li><a href="category/changelog/smart-school-online-course.html">eduflow Online
                                             Course<span>(4)</span></a></li>
                                 </ul>
                                 <ul class="subcategory-list">
-                                    <li><a href="category/changelog/smart-school-qr-code-attendance.html">Smart School
+                                    <li><a href="category/changelog/smart-school-qr-code-attendance.html">eduflow
                                             QR Code Attendance<span>(1)</span></a></li>
                                 </ul>
                             </div>
@@ -662,7 +661,7 @@
                         <div class="ad_rsidebar">
                             <div class="sidebanners-ad"><a href="https://1.envato.market/smart_school_zoom_live_class"
                                                            target="_blank"><img src="assets/front/ads/zoom.jpg"
-                                                                                alt="Smart School"></a></div>
+                                                                                alt="eduflow"></a></div>
                         </div>
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Categories</h4>
@@ -693,32 +692,32 @@
                                         <option value="21">Front CMS</option>
                                         <option value="24">Common Issues & Troubleshooting</option>
                                         <option value="25">Changelog</option>
-                                        <option value="26">Smart School</option>
-                                        <option value="27">Smart School Android App</option>
+                                        <option value="26">eduflow</option>
+                                        <option value="27">eduflow Android App</option>
                                         <option value="31">FAQ</option>
                                         <option value="32">Installation</option>
                                         <option value="33">System Update</option>
                                         <option value="34">Alumni</option>
                                         <option value="35">Lesson Plan</option>
                                         <option value="36">Zoom Live Classes</option>
-                                        <option value="37">Smart School Zoom Live Class</option>
+                                        <option value="37">eduflow Zoom Live Class</option>
                                         <option value="38">Gmeet Live Class</option>
                                         <option value="40">Miscellaneous</option>
                                         <option value="41">Student/Parent Panel</option>
-                                        <option value="42">Smart School Gmeet Live Class</option>
+                                        <option value="42">eduflow Gmeet Live Class</option>
                                         <option value="43">Online Admission</option>
                                         <option value="44">Online Course</option>
                                         <option value="46">Two Factor Authentication</option>
                                         <option value="47">Multi Branch</option>
                                         <option value="48">Behaviour Records</option>
-                                        <option value="49">Smart School Online Course</option>
+                                        <option value="49">eduflow Online Course</option>
                                         <option value="53">CBSE Examination</option>
-                                        <option value="54">Smart School Two Factor Authentication</option>
-                                        <option value="55">Smart School Multi Branch</option>
-                                        <option value="56">Smart School Behaviour Records</option>
-                                        <option value="57">Smart School CBSE Examination</option>
+                                        <option value="54">eduflow Two Factor Authentication</option>
+                                        <option value="55">eduflow Multi Branch</option>
+                                        <option value="56">eduflow Behaviour Records</option>
+                                        <option value="57">eduflow CBSE Examination</option>
                                         <option value="58">QR Code Attendance</option>
-                                        <option value="59">Smart School QR Code Attendance</option>
+                                        <option value="59">eduflow QR Code Attendance</option>
                                     </select></form>
                             </div><!--./content--></div><!--./card-->
                         <div class="sidecard">
@@ -729,7 +728,7 @@
                                             the zoom API credential?</a></li>
                                     <li><a href="article/version-4-1-1.html">Version 4.1</a></li>
                                     <li><a href="article/version-7-0-1.html">Version 7.0.1</a></li>
-                                    <li><a href="article/about-qr-code-attendance.html">About QR Code Attendance</a>
+                                    <li><a href="article/about-qr-code-attendance.php">About QR Code Attendance</a>
                                     </li>
                                     <li><a href="article/how-to-check-staff-day-wise-attendance-report-1.html">How to
                                             check staff day wise attendance report?</a></li>

@@ -18,7 +18,7 @@
     <div class="main main-school">
         <div class="spacet35 spaceb35 section-basic" id="Features">
             <div class="section-header text-center howworks"><h1 class="section-title wow fadeInRight">How it works</h1>
-                <h2 class="section-subtitle wow fadeInLeft">See How Smart School smarter than others</h2></div>
+                <h2 class="section-subtitle wow fadeInLeft">See How eduflow smarter than others</h2></div>
             <section class="spacet35 spaceb35 bggray featurepage">
                 <div class="container">
                     <div class="row">
@@ -102,7 +102,7 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <div class="featuremiddle"><h3>Add Siblings</h3>
-                                    <p>Smart school supports to add any no of siblings at time student admission. Parent
+                                    <p>eduflow supports to add any no of siblings at time student admission. Parent
                                         can check their all children in one parent account</p></div>
                             </div><!--./col-md-5-->
                             <div class="col-md-6 col-sm-6">
@@ -565,7 +565,7 @@
                         <div class="row">
                             <div class="col-md-6 col-sm-6">
                                 <div class="featuremiddle"><h3>Multiple Languages</h3>
-                                    <p>Smart School supports 73 languages globally, the only software to support such a
+                                    <p>eduflow supports 73 languages globally, the only software to support such a
                                         huge number of languages present on envato in education category</p></div>
                             </div><!--./col-md-5-->
                             <div class="col-md-6 col-sm-6">
@@ -638,7 +638,7 @@
                             </div><!--./col-md-6-->
                             <div class="col-md-3 col-sm-5 col-md-offset-3 col-sm-offset-1 text-right">
                                 <div class="featuremiddle"><h3>Responsive User Interface</h3>
-                                    <p>Smart school will cover all kinds of devices seamlessy</p></div>
+                                    <p>eduflow will cover all kinds of devices seamlessy</p></div>
                             </div><!--./col-md-5--></div><!--./row--></div><!--./container--></div>
             </section>
             <section class="space40 bggray">

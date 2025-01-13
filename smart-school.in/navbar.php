@@ -24,8 +24,7 @@
                 <li class="dropdown <?php if(basename($_SERVER['PHP_SELF']) == 'articles.php' || basename($_SERVER['PHP_SELF']) == 'faq.php'){echo 'active';} ?>"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i
                                 class="material-icons">description</i> Help & Documentation</a>
                     <ul class="dropdown-menu dropdown-with-icons">
-<!--                        <li class=""><a href="articles.php"><i class="fa fa-book fasize2"></i> Articles</a></li>-->
-                        <li class=""><a href=""><i class="fa fa-book fasize2"></i> Articles</a></li>
+                        <li class=""><a href="articles.php"><i class="fa fa-book fasize2"></i> Articles</a></li>
 
                         <li class=""><a href="faq.php"><i class="fa fa-question-circle fasize2"></i> FAQ</a></li>
     <!--                        <li><a href="docs/index.html" target="_blank"><i-->

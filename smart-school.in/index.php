@@ -92,7 +92,7 @@
 <!--                <div class="row">-->
 <!--                    <div class="col-md-8 col-md-offset-2">-->
 <!--                        <div class="section-header space35 text-center"><h1-->
-<!--                                class="section-title wow fadeInRight animated">Try Smart School demo</h1>-->
+<!--                                class="section-title wow fadeInRight animated">Try eduflow demo</h1>-->
 <!--                            <h2 class="section-subtitle wow fadeInLeft animated">Try handson demonstration of Smart-->
 <!--                                School with sample data </h2></div>-->
 <!--                    </div>-->
@@ -185,7 +185,8 @@
                     </div>
                 </div>
             </div>
-        </section><!--x--></div><!--main main-school-->
+        </section><!--x-->
+    </div><!--main main-school-->
     <?php include 'footer.php'; ?>
    <!--<div class="chatbtn">-->
     <!--Begin Comm100 Live Chat Code--><!--<div id="comm100-button-724"></div><script type="text/javascript">

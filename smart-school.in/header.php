@@ -5,7 +5,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="Eduflow" name="author">
-    <meta content="Smart School, EduFlow, home, school management software, class routine, education institute, exam, k12,
+    <meta content="eduflow, EduFlow, home, school management software, class routine, education institute, exam, k12,
      marks, multi language, result generator, roles permissions, school, school manager, student, student information system,
       student management, subject, teacher, android app, education technology, school ERP software, attendance management system,
       online admission system, fee management software, parent portal, teacher dashboard, e-learning platform, school timetable

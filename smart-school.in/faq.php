@@ -42,11 +42,11 @@
                                 <div class="panel-heading" role="tab" id="heading1"><h4 class="panel-title"><a
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse1" aria-expanded="true" aria-controls="collapse1"><i
-                                                    class="more-less fa fa-plus-circle"></i>Can I use Smart School
+                                                    class="more-less fa fa-plus-circle"></i>Can I use eduflow
                                             without internet on localhost installation?</a></h4></div>
                                 <div id="collapse1" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading1">
-                                    <div class="panel-body">Yes, you can use <strong>Smart School without internet on
+                                    <div class="panel-body">Yes, you can use <strong>eduflow without internet on
                                             localhost installation</strong> (using XAMPP or WAMP) but you will lose the
                                         benefits of some features like -<br/><br/>
                                         <ul>
@@ -54,7 +54,7 @@
                                             <li>Online Payment</li>
                                             <li>YouTube videos</li>
                                         </ul>
-                                        <br/>If you are using <strong>Smart School with internet on localhost
+                                        <br/>If you are using <strong>eduflow with internet on localhost
                                             installation</strong> then above mentioned features will work.
                                     </div>
                                 </div>
@@ -63,16 +63,16 @@
                                 <div class="panel-heading" role="tab" id="heading2"><h4 class="panel-title"><a
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse2" aria-expanded="true" aria-controls="collapse2"><i
-                                                    class="more-less fa fa-plus-circle"></i>Can I use Smart School on
+                                                    class="more-less fa fa-plus-circle"></i>Can I use eduflow on
                                             localhost or local LAN network?</a></h4></div>
                                 <div id="collapse2" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading2">
-                                    <div class="panel-body">Yes, you can use Smart School on localhost installation
+                                    <div class="panel-body">Yes, you can use eduflow on localhost installation
                                         (using XAMPP or WAMP) and <strong>access it in your local LAN</strong> (Local
-                                        Area Network) from other pc in network. How to configure Smart School for local
+                                        Area Network) from other pc in network. How to configure eduflow for local
                                         LAN network please <a
-                                                title=" Configure Smart School To Use In Local LAN Network"
-                                                href="article/configure-smart-school-to-use-in-local-lan-network.html">check
+                                                title=" Configure eduflow To Use In Local LAN Network"
+                                                href="article/configure-smart-school-to-use-in-local-lan-network.php">check
                                             this article</a>.
                                     </div>
                                 </div>
@@ -87,8 +87,8 @@
                                      aria-labelledby="heading3">
                                     <div class="panel-body">By default display error messages are disabled in Smart
                                         School that is the reason every time if there is any error occurred system is
-                                        showing 500 error message. This is due to Smart School environment is set for
-                                        production . To enable display error message you should change Smart School
+                                        showing 500 error message. This is due to eduflow environment is set for
+                                        production . To enable display error message you should change eduflow
                                         environment from <span
                                                 style="color: #e74c3c;"><strong>production</strong> </span>to <span
                                                 style="color: #27ae60;"><strong>development</strong></span>.<br/><br/>Please
@@ -142,7 +142,7 @@
                                     <div class="panel-body">If you have any general questions don't hesitate to contact
                                         us on <strong><span style="color: #3598db;">support@qdocs.in</span></strong> and
                                         for support questions you can open support ticket at <a
-                                                title="Smart School support portal" href="http://support.qdocs.in/"
+                                                title="eduflow support portal" href="http://support.qdocs.in/"
                                                 target="_blank" rel="noopener">http://support.qdocs.in</a></div>
                                 </div>
                             </div><!--./panel 1-->
@@ -150,11 +150,11 @@
                                 <div class="panel-heading" role="tab" id="heading6"><h4 class="panel-title"><a
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse6" aria-expanded="true" aria-controls="collapse6"><i
-                                                    class="more-less fa fa-plus-circle"></i>Does Smart School support 3
+                                                    class="more-less fa fa-plus-circle"></i>Does eduflow support 3
                                             decimals places?</a></h4></div>
                                 <div id="collapse6" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading6">
-                                    <div class="panel-body">Smart School does <strong>not support</strong> 3 decimals
+                                    <div class="panel-body">eduflow does <strong>not support</strong> 3 decimals
                                         places for a number or currency amount.
                                     </div>
                                 </div>
@@ -167,11 +167,11 @@
                                             am using?</a></h4></div>
                                 <div id="collapse7" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading7">
-                                    <div class="panel-body">To check Smart School Version, login from superadmin panel
+                                    <div class="panel-body">To check eduflow Version, login from superadmin panel
                                         and then go to <strong>System Settings &gt; System Update</strong> link. Here
-                                        you can see your current <strong>Smart School Version</strong>.<br/><br/><img
+                                        you can see your current <strong>eduflow Version</strong>.<br/><br/><img
                                                 src="assets/article-media/unable-smartschool-version.png"
-                                                alt="Smart school version image " width="1360" height="660"/></div>
+                                                alt="eduflow version image " width="1360" height="660"/></div>
                                 </div>
                             </div><!--./panel 1-->
                             <div class="panel panel-default">
@@ -179,7 +179,7 @@
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse8" aria-expanded="true" aria-controls="collapse8"><i
                                                     class="more-less fa fa-plus-circle"></i>What are the server
-                                            requirements for installing or running Smart School?</a></h4></div>
+                                            requirements for installing or running eduflow?</a></h4></div>
                                 <div id="collapse8" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading8">
                                     <div class="panel-body">Click <a title=" Server Requirements"
@@ -192,11 +192,11 @@
                                 <div class="panel-heading" role="tab" id="heading9"><h4 class="panel-title"><a
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse9" aria-expanded="true" aria-controls="collapse9"><i
-                                                    class="more-less fa fa-plus-circle"></i>Does Smart School support
+                                                    class="more-less fa fa-plus-circle"></i>Does eduflow support
                                             RTL direction for languages?</a></h4></div>
                                 <div id="collapse9" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading9">
-                                    <div class="panel-body">Yes, Smart School <strong>support RTL</strong> direction for
+                                    <div class="panel-body">Yes, eduflow <strong>support RTL</strong> direction for
                                         languages.
                                     </div>
                                 </div>
@@ -226,7 +226,7 @@
                                             receiving</strong> or <strong>there is no any email send by system</strong>
                                         then your email setting is not configured properly so system is unable to send
                                         any email. To configure email please check <a title="Email Send Not Working"
-                                                                                      href="article/email-send-not-working.html">this
+                                                                                      href="article/email-send-not-working.php">this
                                             article</a>.
                                     </div>
                                 </div>
@@ -235,15 +235,15 @@
                                 <div class="panel-heading" role="tab" id="heading12"><h4 class="panel-title"><a
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse12" aria-expanded="true" aria-controls="collapse12"><i
-                                                    class="more-less fa fa-plus-circle"></i>Can I use Smart School as
+                                                    class="more-less fa fa-plus-circle"></i>Can I use eduflow as
                                             SaaS or multi school application?</a></h4></div>
                                 <div id="collapse12" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading12">
-                                    <div class="panel-body">Unfortunately you&nbsp;can&rsquo;t use Smart School as SaaS
-                                        or multi school application. Even you can not edit or customize Smart School to
+                                    <div class="panel-body">Unfortunately you&nbsp;can&rsquo;t use eduflow as SaaS
+                                        or multi school application. Even you can not edit or customize eduflow to
                                         make it SaaS or multi school application due to its licensing terms. Smart
                                         School licenses are single end products, additional information for licenses can
-                                        be found <a title="Smart School license"
+                                        be found <a title="eduflow license"
                                                     href="https://codecanyon.net/licenses/standard" target="_blank"
                                                     rel="noopener">here</a>.
                                     </div>
@@ -267,10 +267,10 @@
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse14" aria-expanded="true" aria-controls="collapse14"><i
                                                     class="more-less fa fa-plus-circle"></i>Can I use special character
-                                            in Smart School?</a></h4></div>
+                                            in eduflow?</a></h4></div>
                                 <div id="collapse14" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading14">
-                                    <div class="panel-body">In Smart School avoid to enter or using special character
+                                    <div class="panel-body">In eduflow avoid to enter or using special character
                                         (special character is non-alphabetic and non-numeric like @, #, $, &lt;, %, ^,
                                         &amp;, *, !) for any field like Student, Staff, Income, Expense, Transport,
                                         Custom Field etc, otherwise it may fail PHP or JavaScript processing.
@@ -313,10 +313,10 @@
                                                 role="button" data-toggle="collapse" data-parent="#accordion"
                                                 href="#collapse16" aria-expanded="true" aria-controls="collapse16"><i
                                                     class="more-less fa fa-plus-circle"></i>How to assign fees to
-                                            student in Smart School?</a></h4></div>
+                                            student in eduflow?</a></h4></div>
                                 <div id="collapse16" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading16">
-                                    <div class="panel-body">In Smart School you can assign fees for each student by
+                                    <div class="panel-body">In eduflow you can assign fees for each student by
                                         creating fees groups from Fees Collection &gt; Fees Group then Fees Collection
                                         &gt; Fees Master (create fees by selecting fees group here) and assign to
                                         student from Fees Master &gt; Assign/view Fees. Please check the following
@@ -334,48 +334,48 @@
                                             School Biometric Attendance App?</a></h4></div>
                                 <div id="collapse17" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading17">
-                                    <div class="panel-body"><p>To take attendance in Smart School automatically through
-                                            biometric attendance device you should have Smart School Biometric
+                                    <div class="panel-body"><p>To take attendance in eduflow automatically through
+                                            biometric attendance device you should have eduflow Biometric
                                             Attendance App (desktop application) and Biometric Attendance Device. Smart
                                             School Biometric Attendance App supports multiple biometric attendance
                                             devices so you can add multiple devices and take attendance with them
                                             simultaneously. You should purchase compatible biometric devices at your end
-                                            from any online store or from your local market. To purchase Smart School
+                                            from any online store or from your local market. To purchase eduflow
                                             Biometric Attendance App please contact to support <a
                                                     href="https://support.qdocs.net/" target="_blank" rel="noopener">https://support.qdocs.net/</a>&nbsp;.
                                         </p>
                                         <p>&nbsp;</p>
                                         <p>Using biometric device and its configuration all details will be provided in
-                                            its documentation. With Smart School Biometric Attendance App purchase you
+                                            its documentation. With eduflow Biometric Attendance App purchase you
                                             will get Windows OS executable files, runtime and installer,
                                             documentation.</p>
                                         <p>&nbsp;</p>
                                         <p>Price -</p>
-                                        <p>Smart School Biometric Attendance App price: USD $99 or INR Rs.7500 (without
+                                        <p>eduflowBiometric Attendance App price: USD $99 or INR Rs.7500 (without
                                             payment processing fees) with 12 month support with lifetime free
                                             updates.</p>
                                         <p>&nbsp;</p>
                                         <p>Biometric Device Specifications -</p>
-                                        <p>Smart School Biometric Attendance App supports any biometric attendance
+                                        <p>eduflowBiometric Attendance App supports any biometric attendance
                                             device which supports ZKTeco Firmware with Push Data (atleast Push Service
                                             Ver. 2) feature. For development we have used (<strong>ZKTeco K60</strong>)
                                             for reference purpose only, you can purchase device from your local market
                                             or from your country online site for same specification) model device.</p>
                                         <p>&nbsp;</p>
                                         <p>Below are a list of items you should ensure your computer hardware/software
-                                            should comply with to install and run Smart School Biometric Attendance App
+                                            should comply with to install and run eduflowBiometric Attendance App
                                             -</p>
                                         <p>- Atleast Intel i3 processor or its equivalent other processor</p>
                                         <p>- Atleast 4GB of RAM</p>
                                         <p>- Atleast Microsoft Windows 7 - 64 Bit Operating System</p>
                                         <p>- Broadband Internet connectivity with minimum 1 MBPS speed</p>
                                         <p>&nbsp;</p>
-                                        <p>You can check the documentation of Smart School Biometric Attendance App at&nbsp;<a
+                                        <p>You can check the documentation of eduflowBiometric Attendance App at&nbsp;<a
                                                     href="ssba-docs/index.html" target="_blank"
                                                     rel="noopener noreferrer">https://smart-school.in/ssba-docs/</a>&nbsp;.
                                         </p>
                                         <p>&nbsp;</p>
-                                        <p>If you still having any doubt about Smart School Biometric Attendance App
+                                        <p>If you still having any doubt about eduflowBiometric Attendance App
                                             then feel free to ask at support.</p></div>
                                 </div>
                             </div><!--./panel 1-->
@@ -401,7 +401,7 @@
                                             </div>
                                             <div>&nbsp;</div>
                                             <div>Online Examinations Module : It is used for online examination where
-                                                question, exam, answer everything is created under Smart School and
+                                                question, exam, answer everything is created under eduflowand
                                                 student take exam online through computer and submit their answer
                                                 immediately. After result &nbsp;published student can check their result
                                                 online.
@@ -419,13 +419,13 @@
                                             in Smart School?</a></h4></div>
                                 <div id="collapse19" class="panel-collapse collapse" role="tabpanel"
                                      aria-labelledby="heading19">
-                                    <div class="panel-body">In Smart School you don't have to create subscription fees
+                                    <div class="panel-body">In eduflowyou don't have to create subscription fees
                                         for every months because student fees are not something like subscription
                                         billing which can be vary month to month depends on services usage. Student fees
                                         are pre decided at time of student admission so in beginning of academic session
                                         you will configure and create all fees for all students with their due dates.
                                         Although you can change assigned fees at any time of student because fees are
-                                        calculated in real time.<br/><br/>To understand how Smart school fees collection
+                                        calculated in real time.<br/><br/>To understand how eduflowfees collection
                                         module is working please check this documentation <a
                                                 href="category/fees-collection.html">https://smart-school.in/category/fees-collection</a>
                                     </div>
@@ -443,7 +443,7 @@
                                         belonging to any class for current academic session." while login to student
                                         account so this message is occurred when a student is login which is belonging
                                         to an academic session and that session is not currently set as current academic
-                                        session in your Smart School System Settings &gt; General Setting. So please
+                                        session in your eduflowSystem Settings &gt; General Setting. So please
                                         check for your current academic session. &nbsp;
                                     </div>
                                 </div>
@@ -485,7 +485,7 @@
                                             Settings"</strong> then save it.<br/><br/><img
                                                 src="assets/article-media/Screenshot-9542-.png" alt="" width="800"
                                                 height="368"/><br/><br/>After save changes it will look like below image
-                                        at Smart School site.<br/><br/><img src="assets/article-media/set.png" alt=""
+                                        at eduflowsite.<br/><br/><img src="assets/article-media/set.png" alt=""
                                                                             width="800" height="390"/><br/><br/><strong>Note-</strong>
                                         Please make sure you have done changes in proper format (like Academics Settings
                                         must be under single inverted commas) otherwise code will cause an error.
@@ -530,31 +530,31 @@
                                         <option value="24">Common Issues & Troubleshooting</option>
                                         <option value="25">Changelog</option>
                                         <option value="26">Smart School</option>
-                                        <option value="27">Smart School Android App</option>
+                                        <option value="27">eduflowAndroid App</option>
                                         <option value="31">FAQ</option>
                                         <option value="32">Installation</option>
                                         <option value="33">System Update</option>
                                         <option value="34">Alumni</option>
                                         <option value="35">Lesson Plan</option>
                                         <option value="36">Zoom Live Classes</option>
-                                        <option value="37">Smart School Zoom Live Class</option>
+                                        <option value="37">eduflowZoom Live Class</option>
                                         <option value="38">Gmeet Live Class</option>
                                         <option value="40">Miscellaneous</option>
                                         <option value="41">Student/Parent Panel</option>
-                                        <option value="42">Smart School Gmeet Live Class</option>
+                                        <option value="42">eduflowGmeet Live Class</option>
                                         <option value="43">Online Admission</option>
                                         <option value="44">Online Course</option>
                                         <option value="46">Two Factor Authentication</option>
                                         <option value="47">Multi Branch</option>
                                         <option value="48">Behaviour Records</option>
-                                        <option value="49">Smart School Online Course</option>
+                                        <option value="49">eduflowOnline Course</option>
                                         <option value="53">CBSE Examination</option>
-                                        <option value="54">Smart School Two Factor Authentication</option>
-                                        <option value="55">Smart School Multi Branch</option>
-                                        <option value="56">Smart School Behaviour Records</option>
-                                        <option value="57">Smart School CBSE Examination</option>
+                                        <option value="54">eduflowTwo Factor Authentication</option>
+                                        <option value="55">eduflowMulti Branch</option>
+                                        <option value="56">eduflowBehaviour Records</option>
+                                        <option value="57">eduflowCBSE Examination</option>
                                         <option value="58">QR Code Attendance</option>
-                                        <option value="59">Smart School QR Code Attendance</option>
+                                        <option value="59">eduflowQR Code Attendance</option>
                                     </select></form>
                             </div><!--./content--></div><!--./card-->
                         <div class="sidecard">
@@ -565,7 +565,7 @@
                                             the zoom API credential?</a></li>
                                     <li><a href="article/version-4-1-1.html">Version 4.1</a></li>
                                     <li><a href="article/version-7-0-1.html">Version 7.0.1</a></li>
-                                    <li><a href="article/about-qr-code-attendance.html">About QR Code Attendance</a>
+                                    <li><a href="article/about-qr-code-attendance.php">About QR Code Attendance</a>
                                     </li>
                                     <li><a href="article/how-to-check-staff-day-wise-attendance-report-1.html">How to
                                             check staff day wise attendance report?</a></li>

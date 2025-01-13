@@ -5,7 +5,7 @@ a{text-decoration: none;
     -webkit-transition: all 0.1s ease-in-out;
     -o-transition: all 0.1s ease-in-out;
     outline: none;}
-/*begin smart school css*/
+/*begin eduflowcss*/
 .font12{font-size: 12px;}
 .space20{ padding-top: 20px; }
 .spaceb20{ padding-bottom: 20px; }
@@ -345,7 +345,7 @@ footer .copyright a:hover{color: #02a8f3; text-decoration: none  }
 .logo-container .logo {width: 160px !important;}
 
 }
-/*end smart school css*/
+/*end eduflowcss*/
 
 
 body {

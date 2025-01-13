@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
-<!-- Mirrored from smart-school.in/feature by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2025 14:25:15 GMT -->
-<!-- Added by HTTrack -->
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
 <?php include 'header.php'; ?>
 <body id="Home" class="about-us" data-spy="scroll"><!-- Navbar -->
@@ -21,7 +20,7 @@
                     <div class="section-header text-center"><h1 class="section-title wow fadeInRight animated"
                                                                 style="visibility: visible;">Key Features</h1>
                         <h2 class="section-subtitle wow fadeInLeft animated" style="visibility: visible;">Over 30+
-                            Features you <i class="fa fa-heart heart heartcolor"></i> to use Smart School</h2></div>
+                            Features you <i class="fa fa-heart heart heartcolor"></i> to use eduflow</h2></div>
                     <div class="row">
                         <div class="col-md-4 col-sm-6 wow fadeInDown animated" style="visibility: visible;">
                             <div class="features2">
@@ -34,7 +33,7 @@
                             <div class="features2">
                                 <div class="icon"><img src="assets/admin/assets/img/responsive.png"></div>
                                 <div class="features-text"><h4>Responsive user interface</h4>
-                                    <p>Smart school will over all kinds of devices seamlessy.</p></div>
+                                    <p>eduflow will over all kinds of devices seamlessy.</p></div>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 wow fadeInDown animated" style="visibility: visible;">
@@ -325,7 +324,6 @@
     wow = new WOW({}).init();
 </script>
 </body>
-<!-- Mirrored from smart-school.in/feature by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2025 14:25:23 GMT -->
 </html>
 <script type="text/javascript">
     var currentFocus;
