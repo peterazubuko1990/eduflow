@@ -148,20 +148,20 @@
                                 <ul class="side-list">
                                     <li><a href="how-to-create-student-categories.html">How to create Student
                                         Categories?</a></li>
-                                    <li><a href="how-to-add-student-house.html">How to add Student House?</a></li>
+                                    <li><a href="how-to-add-student-house.php">How to add Student House?</a></li>
                                     <li><a href="how-to-conduct-student-admissions-offline.html">How to conduct student
                                         admissions offline?</a></li>
-                                    <li><a href="how-to-add-siblings.html">How to add Siblings?</a></li>
+                                    <li><a href="how-to-add-siblings.php">How to add Siblings?</a></li>
                                     <li><a href="how-to-import-student.html">How to Import Student?</a></li>
                                     <li><a href="how-to-online-admission.html">How to Online Admission?</a></li>
                                     <li><a href="how-to-view-student-details.html">How to view Student Details?</a></li>
                                     <li><a href="how-to-view-disabled-student.html">How to view Disabled Student?</a>
                                     </li>
-                                    <li><a href="how-to-add-multi-class-student.html">How to add Multi Class
+                                    <li><a href="how-to-add-multi-class-student.php">How to add Multi Class
                                         Student?</a></li>
                                     <li><a href="how-to-delete-student-in-bulk.html">How to delete student in Bulk?</a>
                                     </li>
-                                    <li><a href="how-to-add-disable-reason.html">How to add Disable Reason?</a></li>
+                                    <li><a href="how-to-add-disable-reason.php">How to add Disable Reason?</a></li>
                                     <li><a href="how-to-check-student-report.html">How to check Student Report?</a></li>
                                     <li><a href="how-to-check-guardian-report.html">How to Check Guardian Report?</a>
                                     </li>

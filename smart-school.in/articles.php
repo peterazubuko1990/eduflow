@@ -110,9 +110,9 @@
                                 <ul class="article-list">
                                     <li><a href="article/about-chat.php">About Chat</a></li>
                                     <li><a href="article/about-calendar.php">About Calendar</a></li>
-                                    <li><a href="article/how-to-add-new-event-in-calendar.html">How to add new event in
+                                    <li><a href="article/how-to-add-new-event-in-calendar.php">How to add new event in
                                             calendar?</a></li>
-                                    <li><a href="article/how-to-add-to-do-list.html">How to add To Do List?</a></li>
+                                    <li><a href="article/how-to-add-to-do-list.php">How to add To Do List?</a></li>
                                     <li><a href="article/how-to-add-contact-in-chat.php">How to add contact in
                                             chat?</a></li>
                                 </ul>
@@ -139,11 +139,11 @@
                                             href="category/academics.html">Academics <span>(11)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-academics.php">About Academics</a></li>
-                                    <li><a href="article/how-to-add-section.html">How to add Section?</a></li>
+                                    <li><a href="article/how-to-add-section.php">How to add Section?</a></li>
                                     <li><a href="article/how-to-add-class.php">How to add Class?</a></li>
                                     <li><a href="article/how-to-assign-class-teacher.html">How to Assign Class
                                             Teacher?</a></li>
-                                    <li><a href="article/how-to-add-subjects.html">How to add Subjects?</a></li>
+                                    <li><a href="article/how-to-add-subjects.php">How to add Subjects?</a></li>
                                 </ul>
                                 <a href="category/academics.html" class="see-more"> <i
                                             class="fa fa-angle-double-right"></i> See all 11 articles</a></div>
@@ -154,13 +154,13 @@
                                 </h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-cbse-examination.php">About CBSE Examination</a></li>
-                                    <li><a href="article/how-to-add-the-term-in-cbse-examination.html">How to add the
+                                    <li><a href="article/how-to-add-the-term-in-cbse-examination.php">How to add the
                                             term in CBSE Examination?</a></li>
                                     <li><a href="article/how-to-add-assessment-in-cbse-examination.php">How to add
                                             assessment in CBSE Examination?</a></li>
-                                    <li><a href="article/how-to-add-the-observation-parameter-in-cbse-examination.html">How
+                                    <li><a href="article/how-to-add-the-observation-parameter-in-cbse-examination.php">How
                                             to add the observation parameter in CBSE Examination?</a></li>
-                                    <li><a href="article/how-to-add-observation-in-cbse-examination.html">How to add
+                                    <li><a href="article/how-to-add-observation-in-cbse-examination.php">How to add
                                             observation in CBSE Examination?</a></li>
                                 </ul>
                                 <a href="category/cbse-examination.html" class="see-more"> <i
@@ -207,10 +207,10 @@
                                 </h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-fees-collection.php">About Fees Collection</a></li>
-                                    <li><a href="article/how-to-add-fees-type.html">How to add Fees Type?</a></li>
-                                    <li><a href="article/how-to-add-fees-group.html">How to add Fees Group?</a></li>
-                                    <li><a href="article/how-to-add-fees-master.html">How to add Fees Master?</a></li>
-                                    <li><a href="article/how-to-add-fees-discount.html">How to add Fees Discount?</a>
+                                    <li><a href="article/how-to-add-fees-type.php">How to add Fees Type?</a></li>
+                                    <li><a href="article/how-to-add-fees-group.php">How to add Fees Group?</a></li>
+                                    <li><a href="article/how-to-add-fees-master.php">How to add Fees Master?</a></li>
+                                    <li><a href="article/how-to-add-fees-discount.php">How to add Fees Discount?</a>
                                     </li>
                                 </ul>
                                 <a href="category/fees-collection.html" class="see-more"> <i
@@ -221,11 +221,11 @@
                                             href="category/examinations.html">Examinations <span>(17)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-examination.php">About Examination</a></li>
-                                    <li><a href="article/how-to-add-marks-grade.html">How to add Marks Grade?</a></li>
-                                    <li><a href="article/how-to-add-exam-group.html">How to add Exam Group?</a></li>
+                                    <li><a href="article/how-to-add-marks-grade.php">How to add Marks Grade?</a></li>
+                                    <li><a href="article/how-to-add-exam-group.php">How to add Exam Group?</a></li>
                                     <li><a href="article/how-to-assignview-student-for-exam.html">How to assign/view
                                             student for exam?</a></li>
-                                    <li><a href="article/how-to-add-subject-in-exam.html">How to add subject in
+                                    <li><a href="article/how-to-add-subject-in-exam.php">How to add subject in
                                             Exam?</a></li>
                                 </ul>
                                 <a href="category/examinations.html" class="see-more"> <i
@@ -236,12 +236,12 @@
                                 <ul class="article-list">
                                     <li><a href="article/about-online-examination.php">About Online Examination</a>
                                     </li>
-                                    <li><a href="article/how-to-add-question-bank.html">How to add Question Bank?</a>
+                                    <li><a href="article/how-to-add-question-bank.php">How to add Question Bank?</a>
                                     </li>
                                     <li><a href="article/how-to-import-question-in-question-bank.html">How to import
                                             question in question bank?</a></li>
-                                    <li><a href="article/how-to-add-online-exam.html">How to add Online Exam?</a></li>
-                                    <li><a href="article/how-to-add-question-on-particular-exam.html">How to add
+                                    <li><a href="article/how-to-add-online-exam.php">How to add Online Exam?</a></li>
+                                    <li><a href="article/how-to-add-question-on-particular-exam.php">How to add
                                             question on particular exam?</a></li>
                                 </ul>
                                 <a href="category/online-examinations.html" class="see-more"> <i
@@ -252,11 +252,11 @@
                                             href="category/front-cms.html">Front CMS <span>(9)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-front-cms.php">About Front CMS</a></li>
-                                    <li><a href="article/how-to-add-menus.html">How to add menus?</a></li>
+                                    <li><a href="article/how-to-add-menus.php">How to add menus?</a></li>
                                     <li><a href="article/how-to-upload-file-in-media-manager.html">How to upload file in
                                             Media Manager?</a></li>
-                                    <li><a href="article/how-to-add-pages.html">How to add pages?</a></li>
-                                    <li><a href="article/how-to-add-event.html">How to add Event?</a></li>
+                                    <li><a href="article/how-to-add-pages.php">How to add pages?</a></li>
+                                    <li><a href="article/how-to-add-event.php">How to add Event?</a></li>
                                 </ul>
                                 <a href="category/front-cms.html" class="see-more"> <i
                                             class="fa fa-angle-double-right"></i> See all 9 articles</a></div>
@@ -264,7 +264,7 @@
                                             href="category/multi-branch.html">Multi Branch <span>(7)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-multi-branch.php">About Multi Branch</a></li>
-                                    <li><a href="article/how-to-add-the-new-branch-in-smart-school-home-branch.html">How
+                                    <li><a href="article/how-to-add-the-new-branch-in-smart-school-home-branch.php">How
                                             to add the new branch in eduflow School home branch?</a></li>
                                     <li><a href="article/how-to-edit-a-branch.html">How to edit a branch?</a></li>
                                     <li><a href="article/how-to-delete-the-branch.html">How to delete the branch?</a>
@@ -300,7 +300,7 @@
                                             edit the incidents in the incident list?</a></li>
                                     <li><a href="article/how-to-delete-an-incident-from-the-incident-list.html">How to
                                             delete an incident from the incident list?</a></li>
-                                    <li><a href="article/how-to-add-the-incidents.html">How to add the incidents?</a>
+                                    <li><a href="article/how-to-add-the-incidents.php">How to add the incidents?</a>
                                     </li>
                                 </ul>
                                 <a href="category/behaviour-records.html" class="see-more"> <i
@@ -362,9 +362,9 @@
                                             href="category/lesson-plan.html">Lesson Plan <span>(8)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-lesson-plan.php">About Lesson Plan</a></li>
-                                    <li><a href="article/how-to-add-lesson.html">How To Add Lesson?</a></li>
-                                    <li><a href="article/how-to-add-topic.html">How To Add Topic?</a></li>
-                                    <li><a href="article/how-to-add-lesson-plan.html">How to add Lesson Plan?</a></li>
+                                    <li><a href="article/how-to-add-lesson.php">How To Add Lesson?</a></li>
+                                    <li><a href="article/how-to-add-topic.php">How To Add Topic?</a></li>
+                                    <li><a href="article/how-to-add-lesson-plan.php">How to add Lesson Plan?</a></li>
                                     <li><a href="article/how-to-manage-syllabus-status.html">How To Manage Syllabus
                                             Status?</a></li>
                                 </ul>
@@ -426,10 +426,10 @@
                                     <li><a href="article/about-front-office.php">About Front Office</a></li>
                                     <li><a href="article/how-to-setup-front-office.html">How to Setup Front Office?</a>
                                     </li>
-                                    <li><a href="article/how-to-add-student-admission-enquiry.html">How to add student
+                                    <li><a href="article/how-to-add-student-admission-enquiry.php">How to add student
                                             Admission Enquiry?</a></li>
-                                    <li><a href="article/how-to-add-visitor-book.html">How to add Visitor Book?</a></li>
-                                    <li><a href="article/how-to-add-phone-call-log.html">How to add Phone Call Log?</a>
+                                    <li><a href="article/how-to-add-visitor-book.php">How to add Visitor Book?</a></li>
+                                    <li><a href="article/how-to-add-phone-call-log.php">How to add Phone Call Log?</a>
                                     </li>
                                 </ul>
                                 <a href="category/front-office.html" class="see-more"> <i
@@ -441,10 +441,10 @@
                                 </h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-human-resource.php">About Human Resource</a></li>
-                                    <li><a href="article/how-to-add-department.html">How to add Department?</a></li>
-                                    <li><a href="article/how-to-add-designation.html">How to add Designation?</a></li>
-                                    <li><a href="article/how-to-add-leave-type.html">How to add Leave Type?</a></li>
-                                    <li><a href="article/how-to-add-staff-directory.html">How to add Staff
+                                    <li><a href="article/how-to-add-department.php">How to add Department?</a></li>
+                                    <li><a href="article/how-to-add-designation.php">How to add Designation?</a></li>
+                                    <li><a href="article/how-to-add-leave-type.php">How to add Leave Type?</a></li>
+                                    <li><a href="article/how-to-add-staff-directory.php">How to add Staff
                                             Directory?</a></li>
                                 </ul>
                                 <a href="category/human-resource.html" class="see-more"> <i
@@ -453,11 +453,11 @@
                                             href="category/certificate.html">Certificate <span>(9)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-certificate.php">About Certificate</a></li>
-                                    <li><a href="article/how-to-add-student-certificate.html">How to add student
+                                    <li><a href="article/how-to-add-student-certificate.php">How to add student
                                             Certificate?</a></li>
                                     <li><a href="article/how-to-generate-certificate.html">How to generate
                                             Certificate?</a></li>
-                                    <li><a href="article/how-to-add-student-id-card.html">How to add student ID
+                                    <li><a href="article/how-to-add-student-id-card.php">How to add student ID
                                             card?</a></li>
                                     <li><a href="article/how-to-generate-id-card.html">How to generate ID card?</a></li>
                                 </ul>
@@ -469,9 +469,9 @@
                                             href="category/hostel.html">Hostel <span>(6)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-hostel.php">About Hostel</a></li>
-                                    <li><a href="article/how-to-add-hostel.html">How to Add Hostel?</a></li>
-                                    <li><a href="article/how-to-add-room-type.html">How to Add Room Type?</a></li>
-                                    <li><a href="article/how-to-add-hostel-rooms.html">How to Add Hostel Rooms?</a></li>
+                                    <li><a href="article/how-to-add-hostel.php">How to Add Hostel?</a></li>
+                                    <li><a href="article/how-to-add-room-type.php">How to Add Room Type?</a></li>
+                                    <li><a href="article/how-to-add-hostel-rooms.php">How to Add Hostel Rooms?</a></li>
                                     <li><a href="article/how-to-check-hostel-report.html">How to check Hostel
                                             Report?</a></li>
                                 </ul>
@@ -482,7 +482,7 @@
                                 <ul class="article-list">
                                     <li><a href="article/about-transport.php">About Transport</a></li>
                                     <li><a href="article/how-to-create-routes.html">How to create Routes?</a></li>
-                                    <li><a href="article/how-to-add-vehicles.html">How to add Vehicles?</a></li>
+                                    <li><a href="article/how-to-add-vehicles.php">How to add Vehicles?</a></li>
                                     <li><a href="article/how-to-assign-vehicle-to-the-route.html">How to assign vehicle
                                             to the Route?</a></li>
                                     <li><a href="article/how-to-assign-route-to-student.html">How to assign route to
@@ -498,10 +498,10 @@
                                     <li><a href="article/about-inventory.php">About Inventory</a></li>
                                     <li><a href="article/how-to-create-item-category.html">How to create Item
                                             Category?</a></li>
-                                    <li><a href="article/how-to-add-item-store.html">How to add Item Store?</a></li>
-                                    <li><a href="article/how-to-add-item-supplier.html">How to add Item supplier?</a>
+                                    <li><a href="article/how-to-add-item-store.php">How to add Item Store?</a></li>
+                                    <li><a href="article/how-to-add-item-supplier.php">How to add Item supplier?</a>
                                     </li>
-                                    <li><a href="article/how-to-add-item.html">How to add Item?</a></li>
+                                    <li><a href="article/how-to-add-item.php">How to add Item?</a></li>
                                 </ul>
                                 <a href="category/inventory.html" class="see-more"> <i
                                             class="fa fa-angle-double-right"></i> See all 10 articles</a></div>
@@ -510,9 +510,9 @@
                                 <ul class="article-list">
                                     <li><a href="article/about-library.php">About Library</a></li>
                                     <li><a href="article/how-to-add-book.php">How to add Book?</a></li>
-                                    <li><a href="article/how-to-add-student-as-library-member.html">How to add student
+                                    <li><a href="article/how-to-add-student-as-library-member.php">How to add student
                                             as Library Member?</a></li>
-                                    <li><a href="article/how-to-add-staff-member-as-library-member.html">How to add
+                                    <li><a href="article/how-to-add-staff-member-as-library-member.php">How to add
                                             staff member as Library Member?</a></li>
                                     <li><a href="article/how-to-issuereturn-books.html">How to Issue/Return books?</a>
                                     </li>
@@ -525,7 +525,7 @@
                                             href="category/homework.html">Homework <span>(6)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-homework.php">About Homework</a></li>
-                                    <li><a href="article/how-to-add-homework.html">How to add Homework?</a></li>
+                                    <li><a href="article/how-to-add-homework.php">How to add Homework?</a></li>
                                     <li><a href="article/how-to-evaluate-homework.html">How to Evaluate Homework?</a>
                                     </li>
                                     <li><a href="article/how-to-check-daily-assignment-report.html">How to check Daily
@@ -545,7 +545,7 @@
                                             List?</a></li>
                                     <li><a href="article/how-to-upload-and-share-content.html">How to upload and share
                                             content?</a></li>
-                                    <li><a href="article/how-to-add-video-tutorial.html">How to add video Tutorial?</a>
+                                    <li><a href="article/how-to-add-video-tutorial.php">How to add video Tutorial?</a>
                                     </li>
                                 </ul>
                             </div>
@@ -568,8 +568,8 @@
                                             href="category/expenses.html">Expenses <span>(6)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-expense.php">About Expense</a></li>
-                                    <li><a href="article/how-to-add-expense-head.html">How to add Expense Head?</a></li>
-                                    <li><a href="article/how-to-add-expense.html">How to add Expense?</a></li>
+                                    <li><a href="article/how-to-add-expense-head.php">How to add Expense Head?</a></li>
+                                    <li><a href="article/how-to-add-expense.php">How to add Expense?</a></li>
                                     <li><a href="article/how-to-search-expense.html">How to Search Expense?</a></li>
                                     <li><a href="article/how-to-check-expense-report.html">How to check Expense
                                             Report?</a></li>
@@ -582,8 +582,8 @@
                                             href="category/income.html">Income <span>(6)</span></a></h4>
                                 <ul class="article-list">
                                     <li><a href="article/about-income.php">About Income</a></li>
-                                    <li><a href="article/how-to-add-income-head.html">How to add Income Head?</a></li>
-                                    <li><a href="article/how-to-add-income.html">How to add Income?</a></li>
+                                    <li><a href="article/how-to-add-income-head.php">How to add Income Head?</a></li>
+                                    <li><a href="article/how-to-add-income.php">How to add Income?</a></li>
                                     <li><a href="article/how-to-search-income.html">How to search Income?</a></li>
                                     <li><a href="article/how-to-check-income-report.html">How to check Income
                                             Report?</a></li>
@@ -743,7 +743,7 @@
                                             to disabled the auto attendance and mark the attendance of student and staff
                                             using QR Code / Barcode?</a></li>
                                     <li>
-                                        <a href="article/how-to-enabled-disabled-the-parent-for-gmeet-live-classes.html">How
+                                        <a href="article/how-to-enabled-disabled-the-parent-for-gmeet-live-classes.php">How
                                             to enabled / disabled the parent for gmeet live classes?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3-->

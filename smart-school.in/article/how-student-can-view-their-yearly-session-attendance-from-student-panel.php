@@ -146,7 +146,7 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="student-profile-update.html">Student Profile Update</a></li>
-                                    <li><a href="how-to-add-student-as-library-member.html">How to add student as
+                                    <li><a href="how-to-add-student-as-library-member.php">How to add student as
                                         Library Member?</a></li>
                                     <li><a href="how-student-can-view-book-list.php">How student can view Book list?</a>
                                     </li>

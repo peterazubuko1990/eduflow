@@ -146,7 +146,7 @@
                                 <ul class="side-list">
                                     <li><a href="about-transport.php">About Transport</a></li>
                                     <li><a href="how-to-create-routes.html">How to create Routes?</a></li>
-                                    <li><a href="how-to-add-vehicles.html">How to add Vehicles?</a></li>
+                                    <li><a href="how-to-add-vehicles.php">How to add Vehicles?</a></li>
                                     <li><a href="how-to-assign-vehicle-to-the-route.html">How to assign vehicle to the
                                         Route?</a></li>
                                     <li><a href="how-to-assign-route-to-student.html">How to assign route to

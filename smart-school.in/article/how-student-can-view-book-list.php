@@ -139,9 +139,9 @@
                                 <ul class="side-list">
                                     <li><a href="about-library.php">About Library</a></li>
                                     <li><a href="how-to-add-book.php">How to add Book?</a></li>
-                                    <li><a href="how-to-add-student-as-library-member.html">How to add student as
+                                    <li><a href="how-to-add-student-as-library-member.php">How to add student as
                                         Library Member?</a></li>
-                                    <li><a href="how-to-add-staff-member-as-library-member.html">How to add staff member
+                                    <li><a href="how-to-add-staff-member-as-library-member.php">How to add staff member
                                         as Library Member?</a></li>
                                     <li><a href="how-to-issuereturn-books.html">How to Issue/Return books?</a></li>
                                     <li><a href="how-to-check-book-issue-report.html">How to check Book Issue

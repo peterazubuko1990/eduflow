@@ -208,7 +208,7 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="about-homework.php">About Homework</a></li>
-                                    <li><a href="how-to-add-homework.html">How to add Homework?</a></li>
+                                    <li><a href="how-to-add-homework.php">How to add Homework?</a></li>
                                     <li><a href="how-to-evaluate-homework.html">How to Evaluate Homework?</a></li>
                                     <li><a href="how-to-check-homework-evaluation-report.html">How to check Homework
                                         Evaluation Report?</a></li>

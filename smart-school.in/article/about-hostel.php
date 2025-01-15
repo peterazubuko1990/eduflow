@@ -139,9 +139,9 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-hostel.html">How to Add Hostel?</a></li>
-                                    <li><a href="how-to-add-room-type.html">How to Add Room Type?</a></li>
-                                    <li><a href="how-to-add-hostel-rooms.html">How to Add Hostel Rooms?</a></li>
+                                    <li><a href="how-to-add-hostel.php">How to Add Hostel?</a></li>
+                                    <li><a href="how-to-add-room-type.php">How to Add Room Type?</a></li>
+                                    <li><a href="how-to-add-hostel-rooms.php">How to Add Hostel Rooms?</a></li>
                                     <li><a href="how-to-check-hostel-report.html">How to check Hostel Report?</a></li>
                                     <li><a href="how-student-can-view-hostel-rooms.php">How student can view Hostel
                                         Rooms?</a></li>

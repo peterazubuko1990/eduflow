@@ -169,8 +169,8 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="about-lesson-plan.php">About Lesson Plan</a></li>
-                                    <li><a href="how-to-add-lesson.html">How To Add Lesson?</a></li>
-                                    <li><a href="how-to-add-lesson-plan.html">How to add Lesson Plan?</a></li>
+                                    <li><a href="how-to-add-lesson.php">How To Add Lesson?</a></li>
+                                    <li><a href="how-to-add-lesson-plan.php">How to add Lesson Plan?</a></li>
                                     <li><a href="how-to-check-subject-lesson-plan-report.html">How To Check Subject
                                         Lesson Plan Report?</a></li>
                                     <li><a href="how-to-check-lesson-plan-schedule.html">How to check Lesson Plan

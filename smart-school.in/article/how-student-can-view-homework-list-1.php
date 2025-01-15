@@ -184,7 +184,7 @@
                                         Schedule?</a></li>
                                     <li><a href="how-student-can-view-message-in-notice-board.php">How student can view
                                         message in Notice Board?</a></li>
-                                    <li><a href="how-to-add-teacher-s-review.html">How to add teacher 's review?</a>
+                                    <li><a href="how-to-add-teacher-s-review.php">How to add teacher 's review?</a>
                                     </li>
                                     <li><a href="how-to-view-books-list-in-library.html">How to view Books list in
                                         Library?</a></li>

@@ -143,19 +143,19 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="about-examination.php">About Examination</a></li>
-                                    <li><a href="how-to-add-marks-grade.html">How to add Marks Grade?</a></li>
-                                    <li><a href="how-to-add-exam-group.html">How to add Exam Group?</a></li>
+                                    <li><a href="how-to-add-marks-grade.php">How to add Marks Grade?</a></li>
+                                    <li><a href="how-to-add-exam-group.php">How to add Exam Group?</a></li>
                                     <li><a href="how-to-assignview-student-for-exam.html">How to assign/view student for
                                         exam?</a></li>
-                                    <li><a href="how-to-add-subject-in-exam.html">How to add subject in Exam?</a></li>
-                                    <li><a href="how-to-add-marks-in-exam.html">How to add marks in exam?</a></li>
+                                    <li><a href="how-to-add-subject-in-exam.php">How to add subject in Exam?</a></li>
+                                    <li><a href="how-to-add-marks-in-exam.php">How to add marks in exam?</a></li>
                                     <li><a href="how-to-link-two-exams.html">How to link two exams?</a></li>
                                     <li><a href="how-to-check-exam-schedule.html">How to check Exam Schedule?</a></li>
-                                    <li><a href="how-to-add-design-admit-card.html">How to add Design Admit Card?</a>
+                                    <li><a href="how-to-add-design-admit-card.php">How to add Design Admit Card?</a>
                                     </li>
                                     <li><a href="how-to-print-admit-card.html">How to Print Admit Card?</a></li>
                                     <li><a href="how-to-check-exam-result.html">How to check Exam Result?</a></li>
-                                    <li><a href="how-to-add-design-marksheet.html">How to add Design Marksheet?</a></li>
+                                    <li><a href="how-to-add-design-marksheet.php">How to add Design Marksheet?</a></li>
                                     <li><a href="how-to-print-marksheet.html">How to Print Marksheet?</a></li>
                                     <li><a href="how-to-check-rank-report.html">How to check Rank report?</a></li>
                                     <li><a href="how-student-check-exam-result.php">How student check Exam Result?</a>

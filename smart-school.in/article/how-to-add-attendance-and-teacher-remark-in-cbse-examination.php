@@ -165,9 +165,9 @@
                                     <li><a href="about-cbse-examination.php">About CBSE Examination</a></li>
                                     <li><a href="how-to-assign-view-student-in-cbse-examination.html">How to assign /
                                         view student in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-exam-subjects-in-cbse-examination.html">How to add exam
+                                    <li><a href="how-to-add-exam-subjects-in-cbse-examination.php">How to add exam
                                         subjects in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-marks-in-cbse-examination.html">How to add marks in CBSE
+                                    <li><a href="how-to-add-marks-in-cbse-examination.php">How to add marks in CBSE
                                         Examination?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3--></div><!--./row--></div>

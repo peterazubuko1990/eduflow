@@ -141,10 +141,10 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-student-certificate.html">How to add student
+                                    <li><a href="how-to-add-student-certificate.php">How to add student
                                         Certificate?</a></li>
                                     <li><a href="how-to-generate-certificate.html">How to generate Certificate?</a></li>
-                                    <li><a href="how-to-add-student-id-card.html">How to add student ID card?</a></li>
+                                    <li><a href="how-to-add-student-id-card.php">How to add student ID card?</a></li>
                                     <li><a href="how-to-generate-id-card.html">How to generate ID card?</a></li>
                                     <li>
                                         <a href="how-to-create-staffadmin-id-card-and-show-barcode-and-qr-code-on-id.html">How

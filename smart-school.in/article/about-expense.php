@@ -142,8 +142,8 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-expense-head.html">How to add Expense Head?</a></li>
-                                    <li><a href="how-to-add-expense.html">How to add Expense?</a></li>
+                                    <li><a href="how-to-add-expense-head.php">How to add Expense Head?</a></li>
+                                    <li><a href="how-to-add-expense.php">How to add Expense?</a></li>
                                     <li><a href="how-to-search-expense.html">How to Search Expense?</a></li>
                                     <li><a href="how-to-check-expense-report.html">How to check Expense Report?</a></li>
                                     <li><a href="how-to-check-expense-group-report.html">How to check Expense Group

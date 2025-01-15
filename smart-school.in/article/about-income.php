@@ -142,8 +142,8 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-income-head.html">How to add Income Head?</a></li>
-                                    <li><a href="how-to-add-income.html">How to add Income?</a></li>
+                                    <li><a href="how-to-add-income-head.php">How to add Income Head?</a></li>
+                                    <li><a href="how-to-add-income.php">How to add Income?</a></li>
                                     <li><a href="how-to-search-income.html">How to search Income?</a></li>
                                     <li><a href="how-to-check-income-report.html">How to check Income Report?</a></li>
                                     <li><a href="how-to-check-income-group-report.html">How to check Income Group

@@ -176,37 +176,37 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="about-cbse-examination.html">About CBSE Examination</a></li>
-                                    <li><a href="how-to-add-the-exam-in-cbse-examination.html">How to add the exam in
+                                    <li><a href="how-to-add-the-exam-in-cbse-examination.php">How to add the exam in
                                         CBSE Examination?</a></li>
                                     <li><a href="how-to-assign-view-student-in-cbse-examination.html">How to assign /
                                         view student in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-exam-subjects-in-cbse-examination.html">How to add exam
+                                    <li><a href="how-to-add-exam-subjects-in-cbse-examination.php">How to add exam
                                         subjects in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-marks-in-cbse-examination.html">How to add marks in CBSE
+                                    <li><a href="how-to-add-marks-in-cbse-examination.php">How to add marks in CBSE
                                         Examination?</a></li>
                                     <li><a href="how-to-add-attendance-and-teacher-remark-in-cbse-examination.php">How
                                         to add attendance and teacher remark in CBSE Examination?</a></li>
                                     <li><a href="how-to-generate-the-exam-wise-rank-in-cbse-examination.html">How to
                                         generate the exam wise rank in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-the-term-in-cbse-examination.html">How to add the term in
+                                    <li><a href="how-to-add-the-term-in-cbse-examination.php">How to add the term in
                                         CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-the-template-in-cbse-examination.html">How to add the
+                                    <li><a href="how-to-add-the-template-in-cbse-examination.php">How to add the
                                         template in CBSE Examination?</a></li>
                                     <li><a href="how-to-link-the-exam-with-template-in-cbse-examination.html">How to
                                         link the exam with template in CBSE Examination?</a></li>
                                     <li><a href="how-to-generate-the-template-wise-rank-in-cbse-examination.html">How to
                                         generate the template wise rank in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-the-assign-observation-in-cbse-examination.html">How to add
+                                    <li><a href="how-to-add-the-assign-observation-in-cbse-examination.php">How to add
                                         the assign observation in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-observation-in-cbse-examination.html">How to add observation
+                                    <li><a href="how-to-add-observation-in-cbse-examination.php">How to add observation
                                         in CBSE Examination?</a></li>
                                     <li><a href="how-to-add-assessment-in-cbse-examination.php">How to add assessment
                                         in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-the-observation-parameter-in-cbse-examination.html">How to
+                                    <li><a href="how-to-add-the-observation-parameter-in-cbse-examination.php">How to
                                         add the observation parameter in CBSE Examination?</a></li>
                                     <li><a href="how-to-take-the-print-of-marksheet-in-cbse-examination.html">How to
                                         take the print of marksheet in CBSE Examination?</a></li>
-                                    <li><a href="how-to-add-the-exam-grade-in-cbse-examination.html">How to add the exam
+                                    <li><a href="how-to-add-the-exam-grade-in-cbse-examination.php">How to add the exam
                                         grade in CBSE Examination?</a></li>
                                     <li><a href="how-to-check-the-subject-marks-report-cbse-examination.html">How to
                                         check the subject marks report CBSE Examination?</a></li>

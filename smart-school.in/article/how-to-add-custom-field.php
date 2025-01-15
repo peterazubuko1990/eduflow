@@ -153,11 +153,11 @@
                                     <li><a href="how-to-manage-email-setting.html">How to manage Email Setting?</a></li>
                                     <li><a href="how-to-manage-payment-methods-gateway.html">How to manage Payment
                                         Methods Gateway?</a></li>
-                                    <li><a href="how-to-add-print-header-footer.html">How to add Print Header
+                                    <li><a href="how-to-add-print-header-footer.php">How to add Print Header
                                         Footer?</a></li>
                                     <li><a href="how-to-manage-front-cms-setting.html">How to manage Front CMS
                                         Setting?</a></li>
-                                    <li><a href="how-to-add-roles-permission.html">How to add Roles Permission?</a></li>
+                                    <li><a href="how-to-add-roles-permission.php">How to add Roles Permission?</a></li>
                                     <li><a href="how-to-manage-backup-restore-process.html">How to manage Backup/
                                         Restore process?</a></li>
                                     <li><a href="how-to-manage-language.html">How to manage language?</a></li>
@@ -166,7 +166,7 @@
                                     <li><a href="how-to-disable-system-field.html">How to Disable System Field?</a></li>
                                     <li><a href="student-profile-update.html">Student Profile Update</a></li>
                                     <li><a href="how-to-check-system-update.html">How to check System Update?</a></li>
-                                    <li><a href="how-to-allowed-fileimage-type-extension.html">How to allowed File/Image
+                                    <li><a href="how-to-allowed-fileimage-type-extension.php">How to allowed File/Image
                                         type extension?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3--></div><!--./row--></div>

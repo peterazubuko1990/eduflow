@@ -164,7 +164,7 @@
                                         incidents in the incident list?</a></li>
                                     <li><a href="how-to-delete-an-incident-from-the-incident-list.html">How to delete an
                                         incident from the incident list?</a></li>
-                                    <li><a href="how-to-add-the-incidents.html">How to add the incidents?</a></li>
+                                    <li><a href="how-to-add-the-incidents.php">How to add the incidents?</a></li>
                                     <li><a href="how-to-assign-incidents-to-the-students.html">How to assign incidents
                                         to the students?</a></li>
                                 </ul>

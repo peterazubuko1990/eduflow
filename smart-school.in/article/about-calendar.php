@@ -138,9 +138,9 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-new-event-in-calendar.html">How to add new event in
+                                    <li><a href="how-to-add-new-event-in-calendar.php">How to add new event in
                                         calendar?</a></li>
-                                    <li><a href="how-to-add-to-do-list.html">How to add To Do List?</a></li>
+                                    <li><a href="how-to-add-to-do-list.php">How to add To Do List?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3--></div><!--./row--></div>
             <!--./container--></section>

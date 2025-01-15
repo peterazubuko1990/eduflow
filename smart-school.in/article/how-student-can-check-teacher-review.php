@@ -144,16 +144,16 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="about-human-resource.php">About Human Resource</a></li>
-                                    <li><a href="how-to-add-department.html">How to add Department?</a></li>
-                                    <li><a href="how-to-add-designation.html">How to add Designation?</a></li>
-                                    <li><a href="how-to-add-leave-type.html">How to add Leave Type?</a></li>
-                                    <li><a href="how-to-add-staff-directory.html">How to add Staff Directory?</a></li>
+                                    <li><a href="how-to-add-department.php">How to add Department?</a></li>
+                                    <li><a href="how-to-add-designation.php">How to add Designation?</a></li>
+                                    <li><a href="how-to-add-leave-type.php">How to add Leave Type?</a></li>
+                                    <li><a href="how-to-add-staff-directory.php">How to add Staff Directory?</a></li>
                                     <li><a href="how-to-import-staff.html">How to Import Staff?</a></li>
                                     <li><a href="how-to-mark-staff-attendance.html">How to mark Staff Attendance?</a>
                                     </li>
                                     <li><a href="how-to-generate-payroll-for-staff-members.html">How to generate Payroll
                                         for Staff members?</a></li>
-                                    <li><a href="how-to-apply-leave.html">How to Apply Leave?</a></li>
+                                    <li><a href="how-to-apply-leave.php">How to Apply Leave?</a></li>
                                     <li><a href="how-to-approve-leave-request.html">How to Approve Leave Request?</a>
                                     </li>
                                     <li><a href="how-to-view-teachers-rating.html">How to view Teachers rating?</a></li>

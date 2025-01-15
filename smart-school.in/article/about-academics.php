@@ -241,11 +241,11 @@ Eduflow
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-section.html">How to add Section?</a></li>
+                                    <li><a href="how-to-add-section.php">How to add Section?</a></li>
                                     <li><a href="how-to-add-class.php">How to add Class?</a></li>
                                     <li><a href="how-to-assign-class-teacher.html">How to Assign Class Teacher?</a></li>
-                                    <li><a href="how-to-add-subjects.html">How to add Subjects?</a></li>
-                                    <li><a href="how-to-add-subject-group.html">How to add Subject Group?</a></li>
+                                    <li><a href="how-to-add-subjects.php">How to add Subjects?</a></li>
+                                    <li><a href="how-to-add-subject-group.php">How to add Subject Group?</a></li>
                                     <li><a href="how-to-add-class-timetable.php">How to add Class Timetable?</a></li>
                                     <li><a href="how-to-view-teacher-timetable.html">How to view Teacher Timetable?</a>
                                     </li>

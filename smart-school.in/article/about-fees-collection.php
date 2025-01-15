@@ -150,10 +150,10 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-fees-type.html">How to add Fees Type?</a></li>
-                                    <li><a href="how-to-add-fees-group.html">How to add Fees Group?</a></li>
-                                    <li><a href="how-to-add-fees-master.html">How to add Fees Master?</a></li>
-                                    <li><a href="how-to-add-fees-discount.html">How to add Fees Discount?</a></li>
+                                    <li><a href="how-to-add-fees-type.php">How to add Fees Type?</a></li>
+                                    <li><a href="how-to-add-fees-group.php">How to add Fees Group?</a></li>
+                                    <li><a href="how-to-add-fees-master.php">How to add Fees Master?</a></li>
+                                    <li><a href="how-to-add-fees-discount.php">How to add Fees Discount?</a></li>
                                     <li><a href="how-to-add-collect-fees.php">How to add Collect Fees?</a></li>
                                     <li><a href="how-to-search-fees-payment.html">How to search Fees Payment?</a></li>
                                     <li><a href="how-to-search-due-fees.html">How to search Due Fees?</a></li>

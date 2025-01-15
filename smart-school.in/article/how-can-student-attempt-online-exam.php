@@ -150,11 +150,11 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="about-online-examination.php">About Online Examination</a></li>
-                                    <li><a href="how-to-add-question-bank.html">How to add Question Bank?</a></li>
-                                    <li><a href="how-to-add-online-exam.html">How to add Online Exam?</a></li>
+                                    <li><a href="how-to-add-question-bank.php">How to add Question Bank?</a></li>
+                                    <li><a href="how-to-add-online-exam.php">How to add Online Exam?</a></li>
                                     <li><a href="how-to-assignview-student-for-online-exam.html">How to assign/view
                                         student for Online Exam?</a></li>
-                                    <li><a href="how-to-add-question-on-particular-exam.html">How to add question on
+                                    <li><a href="how-to-add-question-on-particular-exam.php">How to add question on
                                         particular exam?</a></li>
                                     <li><a href="how-to-check-online-exam-result-report.html">How to check Online Exam
                                         Result Report?</a></li>

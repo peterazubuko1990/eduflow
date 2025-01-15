@@ -147,13 +147,13 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-menus.html">How to add menus?</a></li>
+                                    <li><a href="how-to-add-menus.php">How to add menus?</a></li>
                                     <li><a href="how-to-upload-file-in-media-manager.html">How to upload file in Media
                                         Manager?</a></li>
-                                    <li><a href="how-to-add-pages.html">How to add pages?</a></li>
-                                    <li><a href="how-to-add-event.html">How to add Event?</a></li>
-                                    <li><a href="how-to-add-gallery.html">How to add Gallery?</a></li>
-                                    <li><a href="how-to-add-news.html">How to add News?</a></li>
+                                    <li><a href="how-to-add-pages.php">How to add pages?</a></li>
+                                    <li><a href="how-to-add-event.php">How to add Event?</a></li>
+                                    <li><a href="how-to-add-gallery.php">How to add Gallery?</a></li>
+                                    <li><a href="how-to-add-news.php">How to add News?</a></li>
                                     <li><a href="how-to-add-banner-images.php">How to add Banner Images?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3--></div><!--./row--></div>

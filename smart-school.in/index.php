@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
-<!-- Mirrored from smart-school.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2025 14:24:54 GMT -->
-<!-- Added by HTTrack -->
+
 <meta content="text/html;charset=UTF-8" http-equiv="content-type"/><!-- /Added by HTTrack -->
 <?php include 'header.php'; ?>
 <body class="about-us" data-spy="scroll" id="Home"><!-- Navbar -->
@@ -29,56 +28,56 @@
                     <div class="col-lg-7 col-md-7 col-sm-12">
                         <div class="brandimg wow fadeInRight"><img alt="eduflow School mangement" class="img-responsive"
                                                                    src="assets/admin/assets/img/slide-right.png">
-                            <div class="orbiting-icons">
-                                <div class="orbit-icon" style="--delay: 0s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-laptop-code"></i>
-                                        <span>CBT</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -3.75s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-money-bill-wave"></i>
-                                        <span>Fees</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -7.5s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-graduation-cap"></i>
-                                        <span>Results</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -11.25s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-users"></i>
-                                        <span>Students</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -15s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-book-reader"></i>
-                                        <span>Library</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -18.75s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-calendar-alt"></i>
-                                        <span>Events</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -22.5s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-bus"></i>
-                                        <span>Transport</span>
-                                    </div>
-                                </div>
-                                <div class="orbit-icon" style="--delay: -26.25s">
-                                    <div class="orbit-icon-inner">
-                                        <i class="fas fa-tasks"></i>
-                                        <span>Tasks</span>
-                                    </div>
-                                </div>
-                            </div>
+<!--                            <div class="orbiting-icons">-->
+<!--                                <div class="orbit-icon" style="--delay: 0s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-laptop-code"></i>-->
+<!--                                        <span>CBT</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -3.75s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-money-bill-wave"></i>-->
+<!--                                        <span>Fees</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -7.5s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-graduation-cap"></i>-->
+<!--                                        <span>Results</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -11.25s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-users"></i>-->
+<!--                                        <span>Students</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -15s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-book-reader"></i>-->
+<!--                                        <span>Library</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -18.75s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-calendar-alt"></i>-->
+<!--                                        <span>Events</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -22.5s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-bus"></i>-->
+<!--                                        <span>Transport</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                                <div class="orbit-icon" style="--delay: -26.25s">-->
+<!--                                    <div class="orbit-icon-inner">-->
+<!--                                        <i class="fas fa-tasks"></i>-->
+<!--                                        <span>Tasks</span>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
 
                         </div>
                     </div><!--./col-md-7--></div>
@@ -186,6 +185,467 @@
                 </div>
             </div>
         </section><!--x-->
+
+
+        <!-- Partners Section -->
+        <section class="partners-section spacet35 spaceb35">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="section-header text-center wow fadeInUp section-title wow fadeInRight animated">Our Trusted Partners</h1>
+                        <div class="partner-slider wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="partner-item">
+                                <img src="assets/img/partner1.png" alt="Partner 1">
+                                <div class="partner-hover">
+                                    <h4>Partner 1</h4>
+                                    <p>Leading educational technology provider</p>
+                                </div>
+                            </div>
+                            <div class="partner-item">
+                                <img src="assets/img/partner2.png" alt="Partner 2">
+                                <div class="partner-hover">
+                                    <h4>Partner 2</h4>
+                                    <p>Innovative learning solutions</p>
+                                </div>
+                            </div>
+                            <div class="partner-item">
+                                <img src="assets/img/partner3.png" alt="Partner 3">
+                                <div class="partner-hover">
+                                    <h4>Partner 3</h4>
+                                    <p>Global education network</p>
+                                </div>
+                            </div>
+                            <div class="partner-item">
+                                <img src="assets/img/partner4.png" alt="Partner 4">
+                                <div class="partner-hover">
+                                    <h4>Partner 4</h4>
+                                    <p>Advanced school management systems</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- GitHub-inspired Section 1 -->
+        <section class="github-section spacet35 spaceb35">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="section-title wow fadeInLeft">Accelerate Performance</h2>
+                        <p class="wow fadeInLeft" data-wow-delay="0.2s">Eduflow optimizes your school's operations, enhancing efficiency and productivity across all departments.</p>
+                        <ul class="feature-list wow fadeInLeft" data-wow-delay="0.4s">
+                            <li><i class="fa fa-rocket"></i> Streamlined administrative processes</li>
+                            <li><i class="fa fa-chart-line"></i> Real-time performance analytics</li>
+                            <li><i class="fa fa-calendar-alt"></i> Automated scheduling and resource allocation</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="code-card wow fadeInRight">
+                            <div class="code-header">
+                                <span class="file-name">performance_optimizer.php</span>
+                                <div class="window-controls">
+                                    <span class="control red"></span>
+                                    <span class="control yellow"></span>
+                                    <span class="control green"></span>
+                                </div>
+                            </div>
+                            <pre class="code-content"><code class="typing-effect">
+class PerformanceOptimizer {
+    public function streamlineProcesses() {
+        // Implement streamlined workflows
+    }
+
+    public function analyzePerformance() {
+        // Generate real-time analytics
+    }
+
+    public function automate() {
+        // Set up automated scheduling
+    }
+}
+
+$optimizer = new PerformanceOptimizer();
+$optimizer->streamlineProcesses();
+$optimizer->analyzePerformance();
+$optimizer->automate();
+                    </code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- GitHub-inspired Section 2 -->
+        <section class="github-section spacet35 spaceb35">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="code-card wow fadeInLeft">
+                            <div class="code-header">
+                                <span class="file-name">security_manager.php</span>
+                                <div class="window-controls">
+                                    <span class="control red"></span>
+                                    <span class="control yellow"></span>
+                                    <span class="control green"></span>
+                                </div>
+                            </div>
+                            <pre class="code-content"><code class="typing-effect">
+class SecurityManager {
+    public function scanVulnerabilities() {
+        // Perform security scans
+    }
+
+    public function applyPatches() {
+        // Apply security patches
+    }
+
+    public function monitorThreats() {
+        // Continuous threat monitoring
+    }
+}
+
+$security = new SecurityManager();
+$security->scanVulnerabilities();
+$security->applyPatches();
+$security->monitorThreats();
+                    </code></pre>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h2 class="section-title wow fadeInRight">Built-in Application Security</h2>
+                        <p class="wow fadeInRight" data-wow-delay="0.2s">Eduflow ensures the highest level of security for your school's data and operations. Our system continuously monitors and addresses potential vulnerabilities.</p>
+                        <ul class="feature-list wow fadeInRight" data-wow-delay="0.4s">
+                            <li><i class="fa fa-shield-alt"></i> Automatic vulnerability detection</li>
+                            <li><i class="fa fa-lock"></i> Instant security patch application</li>
+                            <li><i class="fa fa-eye"></i> 24/7 threat monitoring and prevention</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <style>
+            @keyframes float {
+                0% { transform: translateY(0px); }
+                50% { transform: translateY(-10px); }
+                100% { transform: translateY(0px); }
+            }
+
+            @keyframes pulse {
+                0% { transform: scale(1); }
+                50% { transform: scale(1.05); }
+                100% { transform: scale(1); }
+            }
+
+            /* Partners Section Styles */
+            .partners-section {
+                background-color: #f6f8fa;
+                padding: 60px 0;
+                overflow: hidden;
+            }
+
+            .partner-slider {
+                display: flex;
+                overflow-x: auto;
+                scroll-snap-type: x mandatory;
+                scroll-behavior: smooth;
+                -webkit-overflow-scrolling: touch;
+            }
+
+            .partner-item {
+                flex: 0 0 auto;
+                width: 200px;
+                margin-right: 20px;
+                scroll-snap-align: start;
+                position: relative;
+                overflow: hidden;
+                border-radius: 8px;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                transition: transform 0.3s ease;
+            }
+
+            .partner-item img {
+                width: 100%;
+                height: auto;
+                display: block;
+                transition: transform 0.3s ease;
+            }
+
+            .partner-hover {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.8);
+                color: #fff;
+                opacity: 0;
+                transition: opacity 0.3s ease;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                padding: 20px;
+            }
+
+            .partner-item:hover {
+                transform: translateY(-5px);
+            }
+
+            .partner-item:hover img {
+                transform: scale(1.1);
+            }
+
+            .partner-item:hover .partner-hover {
+                opacity: 1;
+            }
+
+            /* GitHub-inspired Section Styles */
+            .github-section {
+                background-color: #fff;
+                padding: 80px 0;
+                position: relative;
+                overflow: hidden;
+            }
+
+            .github-section::before {
+                content: '';
+                position: absolute;
+                top: -50%;
+                left: -50%;
+                width: 200%;
+                height: 200%;
+                background: radial-gradient(circle, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0) 80%);
+                animation: pulse 15s infinite;
+            }
+
+            .section-title {
+                font-size: 2.5rem;
+                margin-bottom: 20px;
+                color: #24292e;
+                position: relative;
+                display: inline-block;
+            }
+
+            .section-title::after {
+                content: '';
+                position: absolute;
+                bottom: -10px;
+                left: 0;
+                width: 50px;
+                height: 3px;
+                background-color: #0366d6;
+                transition: width 0.3s ease;
+            }
+
+            .section-title:hover::after {
+                width: 100%;
+            }
+
+            .feature-list {
+                list-style-type: none;
+                padding: 0;
+            }
+
+            .feature-list li {
+                margin-bottom: 15px;
+                font-size: 1.1rem;
+                display: flex;
+                align-items: center;
+                transition: transform 0.3s ease;
+            }
+
+            .feature-list li:hover {
+                transform: translateX(10px);
+            }
+
+            .feature-list i {
+                color: #28a745;
+                margin-right: 10px;
+                font-size: 1.2rem;
+            }
+
+            .code-card {
+                background-color: #f6f8fa;
+                border-radius: 6px;
+                overflow: hidden;
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+                transition: all 0.3s ease;
+                animation: float 6s ease-in-out infinite;
+                height: 400px; /* Fixed height */
+            }
+
+            .code-card:hover {
+                transform: translateY(-10px);
+                box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            }
+
+            .code-header {
+                background-color: #24292e;
+                color: #fff;
+                padding: 10px 20px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            .file-name {
+                font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            }
+
+            .window-controls {
+                display: flex;
+            }
+
+            .control {
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                margin-left: 8px;
+                transition: transform 0.3s ease;
+            }
+
+            .control:hover {
+                transform: scale(1.2);
+            }
+
+            .control.red { background-color: #ff5f56; }
+            .control.yellow { background-color: #ffbd2e; }
+            .control.green { background-color: #27c93f; }
+
+            .code-content {
+                padding: 20px;
+                margin: 0;
+                font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+                font-size: 14px;
+                line-height: 1.5;
+                color: #24292e;
+                overflow: hidden;
+                height: calc(100% - 40px); /* Adjust for padding */
+            }
+
+            /* Responsive adjustments */
+            @media (max-width: 768px) {
+                .github-section .row {
+                    flex-direction: column-reverse;
+                }
+
+                .github-section .col-md-6 {
+                    margin-bottom: 30px;
+                }
+            }
+
+            /* Typing effect styles */
+            .typing-effect {
+                display: block;
+                overflow: hidden;
+                white-space: pre-wrap;
+                margin: 0;
+                line-height: 1.5;
+            }
+
+            .code-line {
+                display: inline-block;
+                width: 100%;
+            }
+        </style>
+
+        <script src="assets/admin/assets/js/wow.min.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                // Initialize WOW.js
+                new WOW().init();
+
+                // Partner slider functionality
+                const slider = document.querySelector('.partner-slider');
+                let isDown = false;
+                let startX;
+                let scrollLeft;
+
+                slider.addEventListener('mousedown', (e) => {
+                    isDown = true;
+                    slider.classList.add('active');
+                    startX = e.pageX - slider.offsetLeft;
+                    scrollLeft = slider.scrollLeft;
+                });
+
+                slider.addEventListener('mouseleave', () => {
+                    isDown = false;
+                    slider.classList.remove('active');
+                });
+
+                slider.addEventListener('mouseup', () => {
+                    isDown = false;
+                    slider.classList.remove('active');
+                });
+
+                slider.addEventListener('mousemove', (e) => {
+                    if (!isDown) return;
+                    e.preventDefault();
+                    const x = e.pageX - slider.offsetLeft;
+                    const walk = (x - startX) * 3;
+                    slider.scrollLeft = scrollLeft - walk;
+                });
+
+                // Improved typing effect for code
+                function typeCode(element) {
+                    const text = element.textContent.trim();
+                    const lines = text.split('\n');
+                    element.innerHTML = '';
+                    let lineIndex = 0;
+                    let charIndex = 0;
+
+                    function type() {
+                        if (lineIndex < lines.length) {
+                            if (charIndex < lines[lineIndex].length) {
+                                if (charIndex === 0) {
+                                    element.innerHTML += '<span class="code-line">';
+                                }
+                                element.querySelector('.code-line:last-child').textContent += lines[lineIndex][charIndex];
+                                charIndex++;
+                                setTimeout(type, 25);
+                            } else {
+                                element.innerHTML += '</span><br>';
+                                lineIndex++;
+                                charIndex = 0;
+                                setTimeout(type, 50);
+                            }
+                        } else {
+                            setTimeout(() => {
+                                element.innerHTML = '';
+                                lineIndex = 0;
+                                charIndex = 0;
+                                type();
+                            }, 2000);
+                        }
+                    }
+                    type();
+                }
+
+                // Start typing effect when element is in view
+                function handleIntersection(entries, observer) {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            typeCode(entry.target);
+                            observer.unobserve(entry.target);
+                        }
+                    });
+                }
+
+                const observer = new IntersectionObserver(handleIntersection, { threshold: 0.5 });
+
+                document.querySelectorAll('.typing-effect').forEach(codeBlock => {
+                    observer.observe(codeBlock);
+                });
+            });
+        </script>
+
+
+
+
     </div><!--main main-school-->
     <?php include 'footer.php'; ?>
    <!--<div class="chatbtn">-->

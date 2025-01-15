@@ -580,7 +580,7 @@
                                             to disabled the auto attendance and mark the attendance of student and staff
                                             using QR Code / Barcode?</a></li>
                                     <li>
-                                        <a href="article/how-to-enabled-disabled-the-parent-for-gmeet-live-classes.html">How
+                                        <a href="article/how-to-enabled-disabled-the-parent-for-gmeet-live-classes.php">How
                                             to enabled / disabled the parent for gmeet live classes?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3--></div><!--./row--></div>

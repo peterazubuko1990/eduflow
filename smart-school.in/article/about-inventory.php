@@ -144,10 +144,10 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="how-to-create-item-category.html">How to create Item Category?</a></li>
-                                    <li><a href="how-to-add-item-store.html">How to add Item Store?</a></li>
-                                    <li><a href="how-to-add-item-supplier.html">How to add Item supplier?</a></li>
-                                    <li><a href="how-to-add-item.html">How to add Item?</a></li>
-                                    <li><a href="how-to-add-item-stock.html">How to add Item Stock?</a></li>
+                                    <li><a href="how-to-add-item-store.php">How to add Item Store?</a></li>
+                                    <li><a href="how-to-add-item-supplier.php">How to add Item supplier?</a></li>
+                                    <li><a href="how-to-add-item.php">How to add Item?</a></li>
+                                    <li><a href="how-to-add-item-stock.php">How to add Item Stock?</a></li>
                                     <li><a href="how-to-issue-item.html">How to Issue Item?</a></li>
                                     <li><a href="how-to-check-stock-report.html">How to check Stock Report?</a></li>
                                     <li><a href="how-to-check-add-item-report.html">How to check add Item Report?</a>

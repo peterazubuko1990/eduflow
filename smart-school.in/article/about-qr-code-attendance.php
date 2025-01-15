@@ -165,7 +165,7 @@
                                     <li>
                                         <a href="how-to-generate-barcode-and-qr-code-for-adminstaff-on-his-profile.html">How
                                             to generate barcode and QR code for admin/staff on his profile?</a></li>
-                                    <li><a href="how-to-add-qr-code-in-student-id-card-and-his-profile.html">How to add
+                                    <li><a href="how-to-add-qr-code-in-student-id-card-and-his-profile.php">How to add
                                         QR Code in student id card and his profile?</a></li>
                                     <li>
                                         <a href="how-to-disabled-the-auto-attendance-and-mark-the-attendance-of-student-and-staff-using-qr-code-barcode.html">How

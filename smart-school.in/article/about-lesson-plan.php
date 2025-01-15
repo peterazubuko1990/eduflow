@@ -153,9 +153,9 @@
                         <div class="sidecard">
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
-                                    <li><a href="how-to-add-lesson.html">How To Add Lesson?</a></li>
-                                    <li><a href="how-to-add-topic.html">How To Add Topic?</a></li>
-                                    <li><a href="how-to-add-lesson-plan.html">How to add Lesson Plan?</a></li>
+                                    <li><a href="how-to-add-lesson.php">How To Add Lesson?</a></li>
+                                    <li><a href="how-to-add-topic.php">How To Add Topic?</a></li>
+                                    <li><a href="how-to-add-lesson-plan.php">How to add Lesson Plan?</a></li>
                                     <li><a href="how-to-manage-syllabus-status.html">How To Manage Syllabus Status?</a>
                                     </li>
                                     <li><a href="how-to-check-syllabus-status-report.html">How To Check Syllabus Status

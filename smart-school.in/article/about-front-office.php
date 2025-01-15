@@ -144,12 +144,12 @@
                             <div class="content"><h4 class="info-title">Related Articles</h4>
                                 <ul class="side-list">
                                     <li><a href="how-to-setup-front-office.html">How to Setup Front Office?</a></li>
-                                    <li><a href="how-to-add-student-admission-enquiry.html">How to add student Admission
+                                    <li><a href="how-to-add-student-admission-enquiry.php">How to add student Admission
                                         Enquiry?</a></li>
-                                    <li><a href="how-to-add-visitor-book.html">How to add Visitor Book?</a></li>
-                                    <li><a href="how-to-add-phone-call-log.html">How to add Phone Call Log?</a></li>
-                                    <li><a href="how-to-add-postal-dispatch.html">How to add Postal Dispatch?</a></li>
-                                    <li><a href="how-to-add-postal-receive.html">How to add Postal Receive?</a></li>
+                                    <li><a href="how-to-add-visitor-book.php">How to add Visitor Book?</a></li>
+                                    <li><a href="how-to-add-phone-call-log.php">How to add Phone Call Log?</a></li>
+                                    <li><a href="how-to-add-postal-dispatch.php">How to add Postal Dispatch?</a></li>
+                                    <li><a href="how-to-add-postal-receive.php">How to add Postal Receive?</a></li>
                                     <li><a href="how-to-add-complain.php">How to add Complain?</a></li>
                                 </ul>
                             </div><!--./content--></div><!--./card--></div><!--./col-md-3--></div><!--./row--></div>
